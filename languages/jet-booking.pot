@@ -1,0 +1,3951 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Jet Booking\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-30 13:26+0300\n"
+"PO-Revision-Date: 2018-01-03 12:10+0200\n"
+"Last-Translator: \n"
+"Language-Team: Zemez\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;_ex:1,2c;_n:1,2;_nx:4c,1,2;_n_noop:1,2;"
+"_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 3.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: cherry-framework\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+
+#: assets/gutenberg/src/blocks/check-in-out/edit.js:72
+#: templates/admin/jet-abaf-settings/settings.php:43
+msgid "Field Settings"
+msgstr ""
+
+#: assets/gutenberg/src/blocks/check-in-out/edit.js:161
+#: assets/js/admin/blocks-view/src/blocks/calendar/index.js:54
+msgid "General Colors"
+msgstr ""
+
+#: assets/gutenberg/src/blocks/check-in-out/edit.js:165
+#: assets/gutenberg/src/blocks/check-in-out/edit.js:178
+#: assets/gutenberg/src/blocks/check-in-out/edit.js:191
+#: assets/gutenberg/src/blocks/check-in-out/edit.js:204
+#: assets/gutenberg/src/blocks/check-in-out/edit.js:217
+#: assets/js/admin/blocks-view/src/blocks/calendar/index.js:57
+#: assets/js/admin/blocks-view/src/blocks/calendar/index.js:73
+#: assets/js/admin/blocks-view/src/blocks/calendar/index.js:89
+#: assets/js/admin/blocks-view/src/blocks/calendar/index.js:105
+#: assets/js/admin/blocks-view/src/blocks/calendar/index.js:121
+msgid "Text"
+msgstr ""
+
+#: assets/gutenberg/src/blocks/check-in-out/edit.js:169
+#: assets/gutenberg/src/blocks/check-in-out/edit.js:182
+#: assets/gutenberg/src/blocks/check-in-out/edit.js:195
+#: assets/gutenberg/src/blocks/check-in-out/edit.js:208
+#: assets/gutenberg/src/blocks/check-in-out/edit.js:221
+#: assets/js/admin/blocks-view/src/blocks/calendar/index.js:62
+#: assets/js/admin/blocks-view/src/blocks/calendar/index.js:78
+#: assets/js/admin/blocks-view/src/blocks/calendar/index.js:94
+#: assets/js/admin/blocks-view/src/blocks/calendar/index.js:110
+#: assets/js/admin/blocks-view/src/blocks/calendar/index.js:126
+msgid "Background"
+msgstr ""
+
+#: assets/gutenberg/src/blocks/check-in-out/edit.js:174
+#: assets/js/admin/blocks-view/src/blocks/calendar/index.js:70
+msgid "Days Colors"
+msgstr ""
+
+#: assets/gutenberg/src/blocks/check-in-out/edit.js:187
+#: assets/js/admin/blocks-view/src/blocks/calendar/index.js:86
+msgid "Current Day Colors"
+msgstr ""
+
+#: assets/gutenberg/src/blocks/check-in-out/edit.js:200
+#: assets/js/admin/blocks-view/src/blocks/calendar/index.js:102
+msgid "Days Range Edges Colors"
+msgstr ""
+
+#: assets/gutenberg/src/blocks/check-in-out/edit.js:213
+#: assets/js/admin/blocks-view/src/blocks/calendar/index.js:118
+msgid "Days Range Trace Colors"
+msgstr ""
+
+#: assets/gutenberg/src/blocks/check-in-out/source.js:4
+#: includes/compatibility/packages/jet-engine/templates/admin/form-field.php:5
+msgid "Layout:"
+msgstr ""
+
+#: assets/gutenberg/src/blocks/check-in-out/source.js:5
+#: includes/compatibility/packages/jet-engine/templates/admin/form-field.php:21
+msgid "Fields position:"
+msgstr ""
+
+#: assets/gutenberg/src/blocks/check-in-out/source.js:6
+#: includes/compatibility/packages/jet-engine/templates/admin/form-field.php:41
+msgid "Check In field label:"
+msgstr ""
+
+#: assets/gutenberg/src/blocks/check-in-out/source.js:7
+#: includes/compatibility/packages/jet-engine/templates/admin/form-field.php:56
+msgid "Placeholder:"
+msgstr ""
+
+#: assets/gutenberg/src/blocks/check-in-out/source.js:8
+#: includes/compatibility/packages/jet-engine/templates/admin/form-field.php:65
+msgid "Check Out field label:"
+msgstr ""
+
+#: assets/gutenberg/src/blocks/check-in-out/source.js:9
+#: includes/compatibility/packages/jet-engine/templates/admin/form-field.php:74
+msgid "Check Out field placeholder:"
+msgstr ""
+
+#: assets/gutenberg/src/blocks/check-in-out/source.js:10
+#: includes/compatibility/packages/jet-engine/templates/admin/form-field.php:83
+msgid "Date format:"
+msgstr ""
+
+#: assets/gutenberg/src/blocks/check-in-out/source.js:11
+#: includes/compatibility/packages/jet-engine/templates/admin/form-field.php:102
+msgid "Date field separator:"
+msgstr ""
+
+#: assets/gutenberg/src/blocks/check-in-out/source.js:12
+#: includes/compatibility/packages/jet-engine/templates/admin/form-field.php:116
+msgid "First day of the week:"
+msgstr ""
+
+#: assets/gutenberg/src/blocks/check-in-out/source.js:16
+msgid "For separate fields layout"
+msgstr ""
+
+#: assets/gutenberg/src/blocks/check-in-out/source.js:17
+msgid ""
+"If you are using separate fields for check in and check out dates,\n"
+"\tyou need to left default \"Label\" empty and use this option for field "
+"label"
+msgstr ""
+
+#: assets/gutenberg/src/blocks/check-in-out/source.js:19
+msgid ""
+"Applies only for date in the form checkin/checkout fields.\n"
+"\tFor `MM-DD-YYYY` date format use the `/` date separator"
+msgstr ""
+
+#: assets/gutenberg/src/blocks/check-in-out/source.js:27
+#: includes/compatibility/packages/jet-engine/templates/admin/form-field.php:10
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:8
+msgid "Single field"
+msgstr ""
+
+#: assets/gutenberg/src/blocks/check-in-out/source.js:31
+msgid "Separate fields for check in and check out dates"
+msgstr ""
+
+#: assets/gutenberg/src/blocks/check-in-out/source.js:37
+#: includes/compatibility/packages/jet-engine/templates/admin/form-field.php:26
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:28
+msgid "Inline"
+msgstr ""
+
+#: assets/gutenberg/src/blocks/check-in-out/source.js:41
+#: includes/compatibility/packages/jet-engine/templates/admin/form-field.php:29
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:32
+msgid "List"
+msgstr ""
+
+#: assets/gutenberg/src/blocks/check-in-out/source.js:47
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:116
+msgid "YYYY-MM-DD"
+msgstr ""
+
+#: assets/gutenberg/src/blocks/check-in-out/source.js:51
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:120
+msgid "MM-DD-YYYY"
+msgstr ""
+
+#: assets/gutenberg/src/blocks/check-in-out/source.js:55
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:124
+msgid "DD-MM-YYYY"
+msgstr ""
+
+#: assets/gutenberg/src/blocks/check-in-out/source.js:73
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:151
+msgid "Space"
+msgstr ""
+
+#: assets/gutenberg/src/blocks/check-in-out/source.js:79
+#: includes/compatibility/packages/jet-engine/templates/admin/form-field.php:121
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:166
+#: templates/admin/jet-abaf-settings/settings-labels.php:85
+#: templates/admin/jet-abaf-settings/settings-schedule.php:45
+msgid "Monday"
+msgstr ""
+
+#: assets/gutenberg/src/blocks/check-in-out/source.js:83
+#: includes/compatibility/packages/jet-engine/templates/admin/form-field.php:124
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:170
+#: templates/admin/jet-abaf-settings/settings-labels.php:139
+#: templates/admin/jet-abaf-settings/settings-schedule.php:267
+msgid "Sunday"
+msgstr ""
+
+#: assets/js/admin/blocks-view/src/blocks/calendar/index.js:31
+#: includes/components/elementor-views/widgets/calendar.php:41
+msgid "Content"
+msgstr ""
+
+#: assets/js/admin/blocks-view/src/blocks/calendar/index.js:33
+#: includes/components/bricks-views/elements/calendar.php:47
+#: includes/components/elementor-views/widgets/calendar.php:49
+msgid "Allow to select dates"
+msgstr ""
+
+#: assets/js/admin/blocks-view/src/blocks/calendar/index.js:34
+#: includes/components/bricks-views/elements/calendar.php:48
+#: includes/components/elementor-views/widgets/calendar.php:50
+msgid ""
+"Find booking form on the page and set selected dates into check in/out "
+"field(s)."
+msgstr ""
+
+#: assets/js/admin/blocks-view/src/blocks/calendar/index.js:42
+#: includes/components/bricks-views/elements/calendar.php:55
+#: includes/components/elementor-views/widgets/calendar.php:59
+msgid "Scroll to the form"
+msgstr ""
+
+#: assets/js/admin/blocks-view/src/blocks/calendar/index.js:43
+#: includes/components/bricks-views/elements/calendar.php:56
+#: includes/components/elementor-views/widgets/calendar.php:60
+msgid "Scroll page to the start of the booking form on dates select."
+msgstr ""
+
+#: assets/js/admin/bookings.js:286 assets/js/admin/bookings.js:308
+msgid "Sold out"
+msgstr ""
+
+#: assets/js/admin/bookings.js:299
+msgid "Only checkout"
+msgstr ""
+
+#: assets/js/admin/bookings.js:793 includes/dashboard/pages/settings.php:59
+msgid "Select..."
+msgstr ""
+
+#: assets/js/admin/schedule-manager.js:78
+msgid "No available days for check "
+msgstr ""
+
+#: assets/js/admin/schedule-manager.js:87
+msgid "is"
+msgid_plural "are"
+msgstr[0] ""
+msgstr[1] ""
+
+#: assets/js/admin/schedule-manager.js:160
+msgid "Date is not correct"
+msgstr ""
+
+#: includes/actions/manager.php:140
+msgid "Are you sure you want to cancel your booking?"
+msgstr ""
+
+#: includes/apartment-booking-trait.php:165
+msgid "Booking dates already taken"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/conditions/is_cancellable.php:30
+#: includes/components/bricks-views/manager.php:111
+msgid "Booking is Cancellable"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/forms/manager.php:68
+msgid "Check-in/check-out dates"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/forms/manager.php:99
+msgid "Apartment booking"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/jet-engine.php:57
+#: includes/compatibility/packages/jet-engine/listings/manager.php:92
+#: includes/compatibility/packages/jet-engine/listings/manager.php:485
+#: includes/components/blocks-views/manager.php:52
+#: includes/components/bricks-views/manager.php:23
+#: includes/components/bricks-views/manager.php:89
+#: includes/components/elementor-views/dynamic-tags/module.php:47
+#: includes/components/elementor-views/manager.php:63
+#: includes/formbuilder-plugin/jfb-plugin.php:54
+msgid "JetBooking"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/listings/blocks-views/manager.php:58
+#: includes/compatibility/packages/jet-engine/listings/elementor-views/manager.php:28
+msgid "Redirect URL"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/listings/elementor-views/manager.php:29
+msgid ""
+"The URL to redirect to after booking cancellation. If empty will redirect to "
+"home page. Use the %current_page_url% macro to redirect to the current page."
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/listings/manager.php:94
+msgid "Booking ID"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/listings/manager.php:95
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:29
+#: includes/dashboard/pages/bookings.php:65
+#: templates/admin/jet-abaf-bookings/bookings-list.php:60
+#: templates/admin/jet-abaf-settings/settings-schedule.php:33
+#: templates/admin/post-meta/upcoming-bookings.php:6
+#: templates/woocommerce/myaccount/bookings.php:30
+#: templates/woocommerce/myaccount/bookings.php:75
+msgid "Status"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/listings/manager.php:96
+msgid "Booking Instance ID"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/listings/manager.php:97
+msgid "Booking Instance Unit ID"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/listings/manager.php:98
+#: includes/macros/traits/booking-data-trait.php:55
+msgid "Check In Date"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/listings/manager.php:99
+#: includes/macros/traits/booking-data-trait.php:56
+msgid "Check Out Date"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/listings/manager.php:100
+msgid "Related Order ID"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/listings/manager.php:101
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:95
+#: includes/macros/traits/booking-data-trait.php:54
+msgid "User ID"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/listings/manager.php:158
+msgid "Additional column: "
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/listings/manager.php:223
+msgid "Booking date"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/listings/manager.php:408
+msgid "Unlock unforgettable experiences with our booking service."
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/listings/manager.php:480
+msgid "Add to Google Calendar"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/listings/manager.php:481
+msgid "Cancel Link"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/query-builder/editor.php:40
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:13
+msgid "JetBooking Query"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/query-builder/manager.php:98
+#: includes/wc-integration/modes/plain.php:590
+msgid "Booking"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/form-field.php:13
+msgid "Separate fields for check in and check out dates."
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/form-notification.php:5
+#: includes/formbuilder-plugin/actions/types/insert-booking.php:95
+msgid "Apartment ID field:"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/form-notification.php:17
+#: includes/formbuilder-plugin/actions/types/insert-booking.php:96
+msgid "Check-in/Check-out date field:"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/form-notification.php:30
+#: includes/formbuilder-plugin/actions/types/insert-booking.php:97
+msgid "DB columns map:"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/form-notification.php:34
+#: includes/formbuilder-plugin/actions/types/insert-booking.php:112
+msgid ""
+"Set up connection between form fields and additional database table columns. "
+"This allows you to save entered field data in the corresponding DB column."
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/form-notification.php:49
+#: includes/formbuilder-plugin/actions/types/insert-booking.php:98
+msgid "Disable WooCommerce integration:"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/form-notification.php:54
+#: includes/formbuilder-plugin/actions/types/insert-booking.php:113
+msgid ""
+"Check to disable WooCommerce integration and disconnect the booking system "
+"with WooCommerce checkout for current form."
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/form-notification.php:64
+#: includes/formbuilder-plugin/actions/types/insert-booking.php:99
+msgid "WooCommerce Price field:"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/form-notification.php:73
+#: includes/formbuilder-plugin/actions/types/insert-booking.php:114
+msgid ""
+"Select field to get total price from. If not selected price will be get from "
+"post meta value."
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/form-notification.php:82
+#: includes/formbuilder-plugin/actions/types/insert-booking.php:100
+msgid "WooCommerce order details:"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/form-notification.php:86
+msgid "Set up"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/form-notification.php:89
+#: includes/formbuilder-plugin/actions/types/insert-booking.php:115
+msgid ""
+"Set up booking-related info you want to add to the WooCommerce orders and e-"
+"mails."
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/form-notification.php:98
+#: includes/formbuilder-plugin/actions/types/insert-booking.php:101
+msgid "WooCommerce checkout fields map:"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/form-notification.php:102
+#: includes/formbuilder-plugin/actions/types/insert-booking.php:116
+msgid ""
+"Connect WooCommerce checkout fields to appropriate form fields. This allows "
+"you to pre-fill WooCommerce checkout fields after redirect to checkout."
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/macros-list.php:6
+msgid "Booking macros:"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/macros-list.php:12
+msgid ""
+" - The macro will return the advanced rate times the number of days booked."
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/macros-list.php:17
+msgid " - is the name of the field that returns the number of days booked."
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/macros-list.php:22
+msgid " - Macro returns price per 1 day / night"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:25
+#: templates/admin/jet-abaf-settings/settings.php:16
+msgid "General"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:30
+msgid "Select the status of the booking."
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:39
+msgid "Include"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:40
+msgid ""
+"Specify bookings to retrieve. Comma-separated bookings IDs list. E.g.: 1, "
+"10, 25."
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:50
+msgid "Exclude"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:51
+msgid ""
+"Specify bookings NOT to retrieve. Comma-separated bookings IDs list. E.g.: "
+"1, 10, 25. <b>ATTENTION:</b> Ignored if you use `Include`."
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:61
+#: includes/dashboard/pages/bookings.php:59
+#: includes/macros/traits/booking-data-trait.php:52
+#: templates/admin/jet-abaf-bookings/bookings-list.php:20
+#: templates/woocommerce/myaccount/bookings.php:26
+#: templates/woocommerce/myaccount/bookings.php:51
+msgid "Instance"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:62
+msgid "Select the instance of the booking."
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:73
+msgid "Instance Unit"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:74
+msgid ""
+"Specify the instance unit for which you want to get bookings. Comma-"
+"separated booking instance unit IDs list. E.g.: 1, 10, 25. <b>ATTENTION:</b> "
+"This option doesn't work without `Instance`."
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:84
+msgid "Related Order IDs"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:85
+msgid ""
+"Specify the related order for which you want to get bookings. Comma-"
+"separated booking related orders IDs list. E.g.: 1, 10, 25."
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:96
+msgid ""
+"Specify the user id for which you want to get bookings. Comma-separated "
+"booking related orders IDs list. E.g.: 1, 10, 25."
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:108
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:116
+msgid "Order & Order By"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:120
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:182
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:302
+msgid "Add new"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:135
+msgid "Order By"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:136
+msgid "Select column to sort the result-set."
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:145
+#: templates/woocommerce/myaccount/bookings.php:27
+#: templates/woocommerce/myaccount/bookings.php:56
+msgid "Order"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:146
+msgid "Select order for the `Order By` parameter"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:151
+msgid "From lowest to highest values (1, 2, 3; a, b, c)"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:155
+msgid "From highest to lowest values (3, 2, 1; c, b, a)"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:170
+msgid "Date Query"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:178
+msgid "Date Query Clauses"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:197
+msgid "Date"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:198
+msgid "Select date type to query against."
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:203
+msgid "Check in Date"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:207
+msgid "Check out Date"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:216
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:327
+msgid "Compare"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:217
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:328
+msgid "Select compare operator to test expression."
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:226
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:337
+msgid "Value"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:227
+msgid "Set value for comparison. E.g.: January 1st 2020, Today, Tomorrow etc."
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:242
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:353
+msgid "Relation"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:243
+msgid "The logical relationship between date query clauses."
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:248
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:359
+msgid "And"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:252
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:363
+msgid "Or"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:262
+msgid "Pagination"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:266
+msgid "Limit"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:267
+msgid ""
+"Limit number of records. Number of visible bookings. If using with "
+"JetSmartFilters pagination - number of bookings to show per page."
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:277
+msgid "Offset"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:278
+msgid ""
+"Number of bookings to displace or pass over. E.g.: `2` to skip over 2 posts. "
+"<b>ATTENTION:</b> This option doesn't work without `Limit`. <b>WARNING:</b> "
+"This parameter overrides/ignores the page parameter and breaks pagination."
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:290
+msgid "Columns Query"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:298
+msgid "Columns Query Clauses"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:317
+#: includes/macros/traits/booking-column-trait.php:51
+msgid "Column"
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:318
+msgid "Select additional table column to query against."
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:338
+msgid "Set value for comparison."
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:349
+msgid "There are no additional table columns."
+msgstr ""
+
+#: includes/compatibility/packages/jet-engine/templates/admin/query-editor.php:354
+msgid "The logical relationship between columns query clauses."
+msgstr ""
+
+#: includes/compatibility/packages/jet-smart-filters.php:74
+msgid "JetBooking:"
+msgstr ""
+
+#: includes/compatibility/packages/jet-smart-filters.php:75
+msgid ""
+"filter available instances by checkin/checkout dates (allowed only for Date "
+"Range filter);"
+msgstr ""
+
+#: includes/compatibility/packages/jet-smart-filters.php:91
+msgid "JetBooking: status - filter by booking status"
+msgstr ""
+
+#: includes/compatibility/packages/jet-smart-filters.php:92
+msgid "JetBooking: apartment_id - filter by booking apartment ID"
+msgstr ""
+
+#: includes/compatibility/packages/jet-smart-filters.php:93
+msgid "JetBooking: apartment_unit - filter by booking apartment unit ID"
+msgstr ""
+
+#: includes/compatibility/packages/jet-smart-filters.php:94
+msgid "JetBooking: check_in_date - filter by booking check in date"
+msgstr ""
+
+#: includes/compatibility/packages/jet-smart-filters.php:95
+msgid "JetBooking: check_out_date - filter by booking check out date"
+msgstr ""
+
+#: includes/compatibility/packages/jet-smart-filters.php:96
+msgid ""
+"JetBooking: checkin_checkout - filter available instances by checkin/"
+"checkout dates (allowed only for Date Range filter)"
+msgstr ""
+
+#: includes/compatibility/packages/jet-smart-filters.php:103
+#, php-format
+msgid "JetBooking: %s - filter by booking additional column"
+msgstr ""
+
+#: includes/components/blocks-views/manager.php:145
+#: includes/components/elementor-views/widgets/calendar.php:70
+msgid "Container"
+msgstr ""
+
+#: includes/components/blocks-views/manager.php:153
+#: includes/components/elementor-views/widgets/calendar.php:78
+msgid "Gap Line Color"
+msgstr ""
+
+#: includes/components/blocks-views/manager.php:162
+#: includes/components/blocks-views/manager.php:191
+#: includes/components/blocks-views/manager.php:245
+#: includes/components/blocks-views/manager.php:345
+#: includes/components/blocks-views/manager.php:375
+#: includes/components/blocks-views/manager.php:436
+#: includes/components/blocks-views/manager.php:470
+#: includes/components/blocks-views/manager.php:507
+#: includes/components/blocks-views/manager.php:545
+#: includes/components/blocks-views/manager.php:586
+#: includes/components/blocks-views/manager.php:637
+#: includes/components/blocks-views/manager.php:688
+#: includes/components/elementor-views/manager.php:159
+#: includes/components/elementor-views/manager.php:190
+#: includes/components/elementor-views/manager.php:221
+#: includes/components/elementor-views/manager.php:252
+#: includes/components/elementor-views/manager.php:284
+#: includes/components/elementor-views/manager.php:318
+#: includes/components/elementor-views/widgets/calendar.php:89
+#: includes/components/elementor-views/widgets/calendar.php:122
+#: includes/components/elementor-views/widgets/calendar.php:204
+#: includes/components/elementor-views/widgets/calendar.php:315
+#: includes/components/elementor-views/widgets/calendar.php:348
+#: includes/components/elementor-views/widgets/calendar.php:430
+#: includes/components/elementor-views/widgets/calendar.php:461
+#: includes/components/elementor-views/widgets/calendar.php:506
+#: includes/components/elementor-views/widgets/calendar.php:552
+#: includes/components/elementor-views/widgets/calendar.php:601
+#: includes/components/elementor-views/widgets/calendar.php:676
+#: includes/components/elementor-views/widgets/calendar.php:735
+msgid "Background Color"
+msgstr ""
+
+#: includes/components/blocks-views/manager.php:171
+#: includes/components/blocks-views/manager.php:211
+#: includes/components/blocks-views/manager.php:263
+#: includes/components/blocks-views/manager.php:621
+#: includes/components/blocks-views/manager.php:655
+#: includes/components/blocks-views/manager.php:706
+#: includes/components/bricks-views/elements/calendar.php:90
+#: includes/components/bricks-views/elements/calendar.php:158
+#: includes/components/bricks-views/elements/calendar.php:225
+#: includes/components/bricks-views/elements/calendar.php:399
+#: includes/components/bricks-views/elements/calendar.php:684
+#: includes/components/bricks-views/elements/calendar.php:747
+#: includes/components/elementor-views/widgets/calendar.php:100
+#: includes/components/elementor-views/widgets/calendar.php:163
+#: includes/components/elementor-views/widgets/calendar.php:235
+#: includes/components/elementor-views/widgets/calendar.php:655
+#: includes/components/elementor-views/widgets/calendar.php:695
+#: includes/components/elementor-views/widgets/calendar.php:754
+msgid "Padding"
+msgstr ""
+
+#: includes/components/blocks-views/manager.php:184
+#: includes/components/elementor-views/widgets/calendar.php:114
+#: includes/dashboard/post-meta/price-meta.php:69
+msgid "Month"
+msgstr ""
+
+#: includes/components/blocks-views/manager.php:201
+#: includes/components/blocks-views/manager.php:254
+#: includes/components/blocks-views/manager.php:399
+#: includes/components/blocks-views/manager.php:612
+#: includes/components/blocks-views/manager.php:646
+#: includes/components/blocks-views/manager.php:697
+#: includes/components/bricks-views/elements/calendar.php:124
+#: includes/components/bricks-views/elements/calendar.php:212
+#: includes/components/bricks-views/elements/calendar.php:338
+#: includes/components/bricks-views/elements/calendar.php:386
+#: includes/components/bricks-views/elements/calendar.php:671
+#: includes/components/bricks-views/elements/calendar.php:734
+msgid "Border"
+msgstr ""
+
+#: includes/components/blocks-views/manager.php:222
+#: includes/components/blocks-views/manager.php:665
+#: includes/components/bricks-views/elements/calendar.php:176
+#: includes/components/bricks-views/elements/calendar.php:698
+#: includes/components/elementor-views/widgets/calendar.php:176
+#: includes/components/elementor-views/widgets/calendar.php:707
+msgid "Headings"
+msgstr ""
+
+#: includes/components/blocks-views/manager.php:236
+#: includes/components/blocks-views/manager.php:335
+#: includes/components/blocks-views/manager.php:365
+#: includes/components/blocks-views/manager.php:427
+#: includes/components/blocks-views/manager.php:461
+#: includes/components/blocks-views/manager.php:498
+#: includes/components/blocks-views/manager.php:535
+#: includes/components/blocks-views/manager.php:575
+#: includes/components/blocks-views/manager.php:679
+#: includes/components/bricks-views/elements/calendar.php:304
+#: includes/components/bricks-views/elements/calendar.php:420
+#: includes/components/bricks-views/elements/calendar.php:469
+#: includes/components/bricks-views/elements/calendar.php:518
+#: includes/components/bricks-views/elements/calendar.php:585
+#: includes/components/bricks-views/manager.php:206
+#: includes/components/bricks-views/manager.php:239
+#: includes/components/bricks-views/manager.php:272
+#: includes/components/bricks-views/manager.php:305
+#: includes/components/bricks-views/manager.php:338
+#: includes/components/bricks-views/manager.php:383
+#: includes/components/elementor-views/manager.php:148
+#: includes/components/elementor-views/manager.php:179
+#: includes/components/elementor-views/manager.php:210
+#: includes/components/elementor-views/manager.php:241
+#: includes/components/elementor-views/manager.php:272
+#: includes/components/elementor-views/manager.php:305
+#: includes/components/elementor-views/widgets/calendar.php:193
+#: includes/components/elementor-views/widgets/calendar.php:303
+#: includes/components/elementor-views/widgets/calendar.php:336
+#: includes/components/elementor-views/widgets/calendar.php:419
+#: includes/components/elementor-views/widgets/calendar.php:450
+#: includes/components/elementor-views/widgets/calendar.php:495
+#: includes/components/elementor-views/widgets/calendar.php:540
+#: includes/components/elementor-views/widgets/calendar.php:588
+#: includes/components/elementor-views/widgets/calendar.php:724
+msgid "Color"
+msgstr ""
+
+#: includes/components/blocks-views/manager.php:273
+#: includes/components/bricks-views/elements/calendar.php:239
+#: includes/components/elementor-views/widgets/calendar.php:247
+msgid "Switchers"
+msgstr ""
+
+#: includes/components/blocks-views/manager.php:279
+#: includes/components/elementor-views/widgets/calendar.php:256
+msgid "Font Size"
+msgstr ""
+
+#: includes/components/blocks-views/manager.php:299
+#: includes/components/elementor-views/widgets/calendar.php:275
+msgid "Box Size"
+msgstr ""
+
+#: includes/components/blocks-views/manager.php:328
+#: includes/components/elementor-views/widgets/calendar.php:295
+msgid "Normal"
+msgstr ""
+
+#: includes/components/blocks-views/manager.php:358
+#: includes/components/elementor-views/widgets/calendar.php:328
+msgid "Hover"
+msgstr ""
+
+#: includes/components/blocks-views/manager.php:385
+#: includes/components/blocks-views/manager.php:479
+#: includes/components/blocks-views/manager.php:516
+#: includes/components/blocks-views/manager.php:555
+#: includes/components/blocks-views/manager.php:597
+#: includes/components/elementor-views/widgets/calendar.php:360
+#: includes/components/elementor-views/widgets/calendar.php:472
+#: includes/components/elementor-views/widgets/calendar.php:517
+#: includes/components/elementor-views/widgets/calendar.php:564
+#: includes/components/elementor-views/widgets/calendar.php:614
+msgid "Border Color"
+msgstr ""
+
+#: includes/components/blocks-views/manager.php:412
+#: includes/components/bricks-views/manager.php:232
+#: includes/components/elementor-views/manager.php:170
+#: includes/components/elementor-views/widgets/calendar.php:403
+msgid "Days"
+msgstr ""
+
+#: includes/components/blocks-views/manager.php:454
+#: includes/components/bricks-views/elements/calendar.php:413
+#: includes/components/elementor-views/manager.php:202
+#: includes/components/elementor-views/widgets/calendar.php:442
+msgid "Inactive"
+msgstr ""
+
+#: includes/components/blocks-views/manager.php:491
+#: includes/components/bricks-views/elements/calendar.php:462
+#: includes/components/elementor-views/widgets/calendar.php:487
+msgid "Today"
+msgstr ""
+
+#: includes/components/blocks-views/manager.php:528
+#: includes/components/bricks-views/elements/calendar.php:511
+#: includes/components/elementor-views/widgets/calendar.php:532
+msgid "Start/End"
+msgstr ""
+
+#: includes/components/blocks-views/manager.php:568
+#: includes/components/bricks-views/elements/calendar.php:578
+#: includes/components/elementor-views/manager.php:297
+#: includes/components/elementor-views/widgets/calendar.php:580
+msgid "Trace"
+msgstr ""
+
+#: includes/components/blocks-views/manager.php:631
+#: includes/components/elementor-views/widgets/calendar.php:667
+msgid "Cell"
+msgstr ""
+
+#: includes/components/bricks-views/elements/calendar.php:21
+#: includes/components/elementor-views/widgets/calendar.php:21
+msgid "Booking Availability Calendar"
+msgstr ""
+
+#: includes/components/bricks-views/elements/calendar.php:27
+msgid "Calendar Container"
+msgstr ""
+
+#: includes/components/bricks-views/elements/calendar.php:32
+msgid "Calendar Months"
+msgstr ""
+
+#: includes/components/bricks-views/elements/calendar.php:37
+msgid "Calendar Days"
+msgstr ""
+
+#: includes/components/bricks-views/elements/calendar.php:64
+msgid "Gap line color"
+msgstr ""
+
+#: includes/components/bricks-views/elements/calendar.php:77
+#: includes/components/bricks-views/elements/calendar.php:107
+#: includes/components/bricks-views/elements/calendar.php:199
+#: includes/components/bricks-views/elements/calendar.php:321
+#: includes/components/bricks-views/elements/calendar.php:373
+#: includes/components/bricks-views/elements/calendar.php:433
+#: includes/components/bricks-views/elements/calendar.php:482
+#: includes/components/bricks-views/elements/calendar.php:537
+#: includes/components/bricks-views/elements/calendar.php:606
+#: includes/components/bricks-views/elements/calendar.php:658
+#: includes/components/bricks-views/elements/calendar.php:721
+#: includes/components/bricks-views/manager.php:219
+#: includes/components/bricks-views/manager.php:252
+#: includes/components/bricks-views/manager.php:285
+#: includes/components/bricks-views/manager.php:318
+#: includes/components/bricks-views/manager.php:357
+#: includes/components/bricks-views/manager.php:404
+msgid "Background color"
+msgstr ""
+
+#: includes/components/bricks-views/elements/calendar.php:141
+msgid "Box shadow"
+msgstr ""
+
+#: includes/components/bricks-views/elements/calendar.php:183
+#: includes/components/bricks-views/elements/calendar.php:357
+#: includes/components/bricks-views/elements/calendar.php:705
+msgid "Typography"
+msgstr ""
+
+#: includes/components/bricks-views/elements/calendar.php:246
+msgid "Font size"
+msgstr ""
+
+#: includes/components/bricks-views/elements/calendar.php:271
+msgid "Box size"
+msgstr ""
+
+#: includes/components/bricks-views/elements/calendar.php:446
+#: includes/components/bricks-views/elements/calendar.php:495
+#: includes/components/bricks-views/elements/calendar.php:556
+#: includes/components/bricks-views/elements/calendar.php:627
+msgid "Border color"
+msgstr ""
+
+#: includes/components/bricks-views/elements/calendar.php:651
+msgid "Cells"
+msgstr ""
+
+#: includes/components/bricks-views/manager.php:119
+msgid "Booking is not Cancellable"
+msgstr ""
+
+#: includes/components/bricks-views/manager.php:183
+#: includes/components/elementor-views/manager.php:140
+msgid "Date Range Picker"
+msgstr ""
+
+#: includes/components/bricks-views/manager.php:265
+msgid "Inactive days"
+msgstr ""
+
+#: includes/components/bricks-views/manager.php:298
+msgid "Current day"
+msgstr ""
+
+#: includes/components/bricks-views/manager.php:331
+msgid "Days range edges"
+msgstr ""
+
+#: includes/components/bricks-views/manager.php:376
+msgid "Days range trace"
+msgstr ""
+
+#: includes/components/elementor-views/dynamic-tags/tags/bookings-count.php:37
+msgid "Bookings count"
+msgstr ""
+
+#: includes/components/elementor-views/dynamic-tags/tags/bookings-count.php:96
+msgid "Bookings Period"
+msgstr ""
+
+#: includes/components/elementor-views/dynamic-tags/tags/bookings-count.php:104
+#: includes/macros/traits/bookings-count-trait.php:48
+#: templates/admin/post-meta/price-meta.php:136
+msgid "Start Date"
+msgstr ""
+
+#: includes/components/elementor-views/dynamic-tags/tags/bookings-count.php:114
+#: includes/macros/traits/bookings-count-trait.php:53
+#: templates/admin/jet-abaf-settings/settings-schedule.php:397
+#: templates/admin/post-meta/price-meta.php:149
+msgid "End Date"
+msgstr ""
+
+#: includes/components/elementor-views/dynamic-tags/tags/bookings-count.php:124
+msgid ""
+"Enter date in Universal time format: </br> `Y-m-d H:i:s` or `Y-m-d`. "
+"<b>Example:</b></br> `1996-04-09 00:00:00` or `1996-04-09`."
+msgstr ""
+
+#: includes/components/elementor-views/dynamic-tags/tags/bookings-count.php:143
+msgid "Please select date range."
+msgstr ""
+
+#: includes/components/elementor-views/dynamic-tags/tags/price-per-night.php:38
+msgid "Price per day/night"
+msgstr ""
+
+#: includes/components/elementor-views/dynamic-tags/tags/price-per-night.php:97
+msgid "Show price"
+msgstr ""
+
+#: includes/components/elementor-views/dynamic-tags/tags/price-per-night.php:100
+#: includes/macros/traits/booking-price-per-day-night-trait.php:53
+msgid "Default"
+msgstr ""
+
+#: includes/components/elementor-views/dynamic-tags/tags/price-per-night.php:101
+msgid "Min price"
+msgstr ""
+
+#: includes/components/elementor-views/dynamic-tags/tags/price-per-night.php:102
+msgid "Max price"
+msgstr ""
+
+#: includes/components/elementor-views/dynamic-tags/tags/price-per-night.php:103
+msgid "Prices range"
+msgstr ""
+
+#: includes/components/elementor-views/dynamic-tags/tags/price-per-night.php:112
+msgid "Change Dynamically"
+msgstr ""
+
+#: includes/components/elementor-views/dynamic-tags/tags/price-per-night.php:113
+msgid ""
+"Change price dynamically on check-in check-out dates select. Will work "
+"correctly only when appropriate form presented on the page"
+msgstr ""
+
+#: includes/components/elementor-views/dynamic-tags/tags/price-per-night.php:122
+msgid "Currency sign"
+msgstr ""
+
+#: includes/components/elementor-views/dynamic-tags/tags/price-per-night.php:131
+msgid "Currency sign position"
+msgstr ""
+
+#: includes/components/elementor-views/dynamic-tags/tags/price-per-night.php:134
+#: includes/macros/traits/booking-price-per-day-night-trait.php:79
+msgid "Before price"
+msgstr ""
+
+#: includes/components/elementor-views/dynamic-tags/tags/price-per-night.php:135
+#: includes/macros/traits/booking-price-per-day-night-trait.php:80
+msgid "After price"
+msgstr ""
+
+#: includes/components/elementor-views/dynamic-tags/tags/units-count.php:36
+msgid "Units count"
+msgstr ""
+
+#: includes/components/elementor-views/manager.php:233
+msgid "Current"
+msgstr ""
+
+#: includes/components/elementor-views/manager.php:264
+msgid "Edges"
+msgstr ""
+
+#: includes/components/elementor-views/widgets/calendar.php:142
+#: includes/components/elementor-views/widgets/calendar.php:223
+#: includes/components/elementor-views/widgets/calendar.php:388
+#: includes/components/elementor-views/widgets/calendar.php:643
+msgid "Border Radius"
+msgstr ""
+
+#: includes/dashboard/booking-meta.php:32
+#: includes/wc-integration/manager.php:242
+msgid "Upcoming Bookings"
+msgstr ""
+
+#: includes/dashboard/order-meta.php:29
+#: includes/macros/traits/booking-data-trait.php:32
+msgid "Booking Data"
+msgstr ""
+
+#: includes/dashboard/order-meta.php:126
+#: includes/dashboard/post-meta/base-vue-meta-box.php:166
+#: includes/dashboard/units-manager.php:137
+#: includes/dashboard/units-manager.php:288 includes/set-up.php:35
+#: includes/settings.php:164 includes/settings.php:241
+#: includes/wc-integration/class-wc-order-details-builder.php:257
+msgid "Security check failed."
+msgstr ""
+
+#: includes/dashboard/order-meta.php:130
+#: includes/dashboard/post-meta/base-vue-meta-box.php:172
+msgid "Access denied. Not enough permissions"
+msgstr ""
+
+#: includes/dashboard/order-meta.php:138
+msgid "Updated post ID not found in request"
+msgstr ""
+
+#: includes/dashboard/order-meta.php:142
+msgid "Updated fields not found in request"
+msgstr ""
+
+#: includes/dashboard/order-meta.php:149
+msgid "check_in_date and check_out_date fields can't be empty"
+msgstr ""
+
+#: includes/dashboard/order-meta.php:155
+msgid "apartment_id field can't be empty"
+msgstr ""
+
+#: includes/dashboard/order-meta.php:172
+#: includes/rest-api/endpoints/add-booking.php:70
+#: includes/rest-api/endpoints/update-booking.php:91
+msgid "Selected dates are not available."
+msgstr ""
+
+#: includes/dashboard/order-meta.php:175
+#: includes/rest-api/endpoints/add-booking.php:73
+#: includes/rest-api/endpoints/update-booking.php:94
+msgid "Overlapping bookings: "
+msgstr ""
+
+#: includes/dashboard/order-meta.php:223
+msgid "Related booking not found."
+msgstr ""
+
+#: includes/dashboard/order-meta.php:247
+#: templates/admin/jet-abaf-bookings/bookings-list.php:108
+#: templates/admin/jet-abaf-bookings/bookings-list.php:249
+#: templates/units-manager.php:81
+msgid "Edit"
+msgstr ""
+
+#: includes/dashboard/order-meta.php:269
+msgid "Saving ..."
+msgstr ""
+
+#: includes/dashboard/order-meta.php:269
+#: templates/admin/common/wc-details-builder.php:128
+#: templates/admin/jet-abaf-bookings/bookings-list.php:276
+#: templates/admin/jet-abaf-calendars/calendars-list.php:92
+#: templates/admin/jet-abaf-calendars/calendars-list.php:136
+#: templates/admin/jet-abaf-settings/settings-schedule.php:360
+#: templates/admin/post-meta/price-meta.php:232
+#: templates/admin/post-meta/price-meta.php:252 templates/units-manager.php:70
+msgid "Save"
+msgstr ""
+
+#: includes/dashboard/order-meta.php:269
+#: templates/admin/common/wc-details-builder.php:141
+#: templates/admin/jet-abaf-bookings/bookings-filter.php:145
+#: templates/admin/jet-abaf-bookings/bookings-list.php:158
+#: templates/admin/jet-abaf-set-up/set-up.php:706
+#: templates/admin/jet-abaf-settings/settings-schedule.php:361
+#: templates/admin/post-meta/price-meta.php:240 templates/units-manager.php:93
+#: templates/woocommerce/myaccount/bookings.php:80
+#: templates/woocommerce/myaccount/bookings.php:83
+msgid "Cancel"
+msgstr ""
+
+#: includes/dashboard/pages/bookings.php:27
+#: includes/wc-integration/manager.php:155
+#: templates/admin/jet-abaf-bookings/bookings.php:4
+msgid "Bookings"
+msgstr ""
+
+#: includes/dashboard/pages/bookings.php:71
+#: includes/wc-integration/class-wc-order-details-builder.php:302
+#: includes/wc-integration/manager.php:383
+#: templates/admin/jet-abaf-bookings/bookings-list.php:33
+#: templates/admin/jet-abaf-settings/settings-schedule.php:20
+#: templates/admin/post-meta/upcoming-bookings.php:9
+#: templates/woocommerce/myaccount/bookings.php:28
+#: templates/woocommerce/myaccount/bookings.php:69
+msgid "Check In"
+msgstr ""
+
+#: includes/dashboard/pages/bookings.php:77
+#: includes/wc-integration/class-wc-order-details-builder.php:307
+#: includes/wc-integration/manager.php:388
+#: templates/admin/jet-abaf-bookings/bookings-list.php:42
+#: templates/admin/jet-abaf-settings/settings-schedule.php:23
+#: templates/admin/post-meta/upcoming-bookings.php:10
+#: templates/woocommerce/myaccount/bookings.php:29
+#: templates/woocommerce/myaccount/bookings.php:72
+msgid "Check Out"
+msgstr ""
+
+#: includes/dashboard/pages/calendars.php:24
+#: templates/admin/jet-abaf-calendars/calendars-list.php:4
+msgid "Calendars"
+msgstr ""
+
+#: includes/dashboard/pages/set-up.php:24
+msgid "Set Up"
+msgstr ""
+
+#: includes/dashboard/pages/settings.php:24
+#: includes/framework/jet-dashboard/inc/modules/settings/module.php:43
+msgid "Settings"
+msgstr ""
+
+#: includes/dashboard/post-meta/base-vue-meta-box.php:180
+msgid "Empty data or post ID not found!"
+msgstr ""
+
+#: includes/dashboard/post-meta/base-vue-meta-box.php:192
+msgid "Failed to save data!"
+msgstr ""
+
+#: includes/dashboard/post-meta/base-vue-meta-box.php:197
+#: includes/settings.php:187
+msgid "Settings saved!"
+msgstr ""
+
+#: includes/dashboard/post-meta/configuration-meta.php:35
+msgid "Date Picker Config"
+msgstr ""
+
+#: includes/dashboard/post-meta/custom-schedule-meta.php:35
+msgid "Custom Schedule"
+msgstr ""
+
+#: includes/dashboard/post-meta/price-meta.php:47
+#: includes/wc-integration/class-wc-order-details-builder.php:350
+#: templates/admin/jet-abaf-settings/settings-schedule.php:332
+#: templates/units-manager.php:112
+msgid "Are you sure?"
+msgstr ""
+
+#: includes/dashboard/post-meta/price-meta.php:48
+#: templates/admin/post-meta/price-meta.php:197
+#: templates/admin/post-meta/price-meta.php:215
+#: templates/admin/post-meta/price-meta.php:272
+msgid "Price:"
+msgstr ""
+
+#: includes/dashboard/post-meta/price-meta.php:49
+msgid "Season:"
+msgstr ""
+
+#: includes/dashboard/post-meta/price-meta.php:51
+msgid "Sun"
+msgstr ""
+
+#: includes/dashboard/post-meta/price-meta.php:52
+msgid "Mon"
+msgstr ""
+
+#: includes/dashboard/post-meta/price-meta.php:53
+msgid "Tue"
+msgstr ""
+
+#: includes/dashboard/post-meta/price-meta.php:54
+msgid "Wed"
+msgstr ""
+
+#: includes/dashboard/post-meta/price-meta.php:55
+msgid "Thu"
+msgstr ""
+
+#: includes/dashboard/post-meta/price-meta.php:56
+msgid "Fri"
+msgstr ""
+
+#: includes/dashboard/post-meta/price-meta.php:57
+msgid "Sat"
+msgstr ""
+
+#: includes/dashboard/post-meta/price-meta.php:61
+msgid "Not repeat"
+msgstr ""
+
+#: includes/dashboard/post-meta/price-meta.php:65
+msgid "Week"
+msgstr ""
+
+#: includes/dashboard/post-meta/price-meta.php:73
+msgid "Year"
+msgstr ""
+
+#: includes/dashboard/post-meta/price-meta.php:203
+msgid "Pricing Settings"
+msgstr ""
+
+#: includes/dashboard/units-manager.php:43
+msgid "Units manager"
+msgstr ""
+
+#: includes/export.php:48 includes/export.php:52 includes/export.php:86
+#: includes/framework/jet-dashboard/inc/plugin-manager.php:639
+#: includes/google-calendar.php:114 includes/google-calendar.php:120
+#: includes/google-calendar.php:126 includes/google-calendar.php:132
+msgid "Error"
+msgstr ""
+
+#: includes/formbuilder-plugin/actions/types/insert-booking.php:19
+msgid "Apartment Booking"
+msgstr ""
+
+#: includes/formbuilder-plugin/actions/types/insert-booking.php:62
+#: templates/admin/common/wc-details-builder.php:29
+msgid "Select type..."
+msgstr ""
+
+#: includes/formbuilder-plugin/actions/types/insert-booking.php:66
+#: templates/admin/common/wc-details-builder.php:32
+msgid "Booked instance name"
+msgstr ""
+
+#: includes/formbuilder-plugin/actions/types/insert-booking.php:70
+#: includes/wc-integration/class-wc-order-details-builder.php:132
+#: templates/admin/common/wc-details-builder.php:35
+msgid "Check in"
+msgstr ""
+
+#: includes/formbuilder-plugin/actions/types/insert-booking.php:74
+#: includes/wc-integration/class-wc-order-details-builder.php:132
+#: templates/admin/common/wc-details-builder.php:38
+msgid "Check out"
+msgstr ""
+
+#: includes/formbuilder-plugin/actions/types/insert-booking.php:78
+#: templates/admin/common/wc-details-builder.php:41
+msgid "Booking unit"
+msgstr ""
+
+#: includes/formbuilder-plugin/actions/types/insert-booking.php:82
+#: includes/wc-integration/class-wc-order-details-builder.php:170
+#: templates/admin/common/wc-details-builder.php:44
+msgid "Form field"
+msgstr ""
+
+#: includes/formbuilder-plugin/actions/types/insert-booking.php:86
+#: templates/admin/common/wc-details-builder.php:47
+msgid "Add to Google calendar link"
+msgstr ""
+
+#: includes/formbuilder-plugin/actions/types/insert-booking.php:102
+#: templates/admin/common/wc-details-builder.php:25
+msgid "Type"
+msgstr ""
+
+#: includes/formbuilder-plugin/actions/types/insert-booking.php:103
+#: templates/admin/common/wc-details-builder.php:54
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:43
+msgid "Label"
+msgstr ""
+
+#: includes/formbuilder-plugin/actions/types/insert-booking.php:104
+#: templates/admin/common/wc-details-builder.php:64
+#: templates/admin/jet-abaf-bookings/bookings-filter.php:215
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:111
+msgid "Date format"
+msgstr ""
+
+#: includes/formbuilder-plugin/actions/types/insert-booking.php:105
+#: templates/admin/common/wc-details-builder.php:80
+msgid "Select form field"
+msgstr ""
+
+#: includes/formbuilder-plugin/actions/types/insert-booking.php:106
+#: templates/admin/common/wc-details-builder.php:97
+msgid "Link text"
+msgstr ""
+
+#: includes/formbuilder-plugin/actions/types/update-booking.php:34
+msgid "Update Booking"
+msgstr ""
+
+#: includes/formbuilder-plugin/actions/types/update-booking.php:58
+#: includes/set-up.php:41 includes/settings.php:170 includes/settings.php:247
+msgid "Access denied. Not enough permissions."
+msgstr ""
+
+#: includes/formbuilder-plugin/actions/types/update-booking.php:71
+msgid "Invalid dates."
+msgstr ""
+
+#: includes/formbuilder-plugin/actions/types/update-booking.php:108
+msgid "Booking dates not set."
+msgstr ""
+
+#: includes/formbuilder-plugin/actions/types/update-booking.php:143
+msgid "Booking dates already taken."
+msgstr ""
+
+#: includes/formbuilder-plugin/actions/types/update-booking.php:198
+#: templates/admin/jet-abaf-bookings/bookings-list.php:297
+msgid "Booking ID:"
+msgstr ""
+
+#: includes/formbuilder-plugin/actions/types/update-booking.php:199
+msgid "Check-in/out date field:"
+msgstr ""
+
+#: includes/formbuilder-plugin/actions/types/update-booking.php:200
+msgid "Fields map:"
+msgstr ""
+
+#: includes/formbuilder-plugin/actions/types/update-booking.php:213
+msgid "Set booking properties to save appropriate form fields into."
+msgstr ""
+
+#: includes/formbuilder-plugin/actions/types/update-booking.php:214
+msgid ""
+"Note: changing the value in this field will not reinitialize the Check in/"
+"out field."
+msgstr ""
+
+#: includes/formbuilder-plugin/blocks/blocks-manager.php:49
+msgid "Current Booking ID"
+msgstr ""
+
+#: includes/formbuilder-plugin/generators/get-from-booking-statuses.php:30
+msgid "Get Values List from Booking Statuses"
+msgstr ""
+
+#: includes/formbuilder-plugin/jfb-plugin.php:60
+msgid "Get Booking ID From:"
+msgstr ""
+
+#: includes/formbuilder-plugin/jfb-plugin.php:64
+msgid "Current Post"
+msgstr ""
+
+#: includes/formbuilder-plugin/jfb-plugin.php:68
+msgid "URL Query Variable"
+msgstr ""
+
+#: includes/formbuilder-plugin/jfb-plugin.php:80
+msgid "Query Variable Name:"
+msgstr ""
+
+#: includes/formbuilder-plugin/jfb-plugin.php:94
+msgid "Booking Property:"
+msgstr ""
+
+#: includes/formbuilder-plugin/jfb-plugin.php:98
+#: includes/macros/traits/booking-status-trait.php:32
+msgid "Booking Status"
+msgstr ""
+
+#: includes/formbuilder-plugin/jfb-plugin.php:102
+msgid "Booking Apartment"
+msgstr ""
+
+#: includes/formbuilder-plugin/jfb-plugin.php:106
+msgid "Booking Dates"
+msgstr ""
+
+#: includes/formbuilder-plugin/jfb-plugin.php:110
+#: includes/macros/traits/booking-column-trait.php:32
+msgid "Booking Additional Column"
+msgstr ""
+
+#: includes/formbuilder-plugin/jfb-plugin.php:124
+msgid "Column Name:"
+msgstr ""
+
+#: includes/formbuilder-plugin/jfb-plugin.php:167
+#: includes/formbuilder-plugin/jfb-plugin.php:185
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: includes/formbuilder-plugin/jfb-plugin.php:241
+msgid "JetFormBuilder has been installed."
+msgstr ""
+
+#: includes/formbuilder-plugin/presets/source-booking.php:44
+msgid "Empty Post ID"
+msgstr ""
+
+#: includes/framework/jet-dashboard/assets/js/welcome-page.js:46
+msgid "Go to docs"
+msgstr ""
+
+#: includes/framework/jet-dashboard/assets/js/welcome-page.js:329
+#, javascript-format
+msgid "You can update <b>%s plugin</b>"
+msgid_plural "You can update <b>%s plugins</b>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/framework/jet-dashboard/assets/js/welcome-page.js:330
+msgid "All plugins updated"
+msgstr ""
+
+#: includes/framework/jet-dashboard/assets/js/welcome-page.js:334
+msgid "Activate license to update your JetPlugins"
+msgstr ""
+
+#: includes/framework/jet-dashboard/assets/js/welcome-page.js:341
+#, javascript-format
+msgid "You can install <b>%s more Plugin</b> with your licence"
+msgid_plural "You can install <b>%s more Plugins</b>  with your licence"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/framework/jet-dashboard/assets/js/welcome-page.js:342
+msgid "All available plugins are already installed"
+msgstr ""
+
+#: includes/framework/jet-dashboard/assets/js/welcome-page.js:372
+#: includes/framework/jet-dashboard/assets/js/welcome-page.js:380
+msgid "Try quickstart installation"
+msgstr ""
+
+#: includes/framework/jet-dashboard/assets/js/welcome-page.js:377
+msgid "Unpack Free All-inclusive items"
+msgstr ""
+
+#: includes/framework/jet-dashboard/assets/js/welcome-page.js:451
+msgid "<b class=\"lifetime\">Lifetime</b>"
+msgstr ""
+
+#: includes/framework/jet-dashboard/assets/js/welcome-page.js:454
+#, javascript-format
+msgid "Licence expires <b class=\"expire-date\">%s</b>"
+msgstr ""
+
+#: includes/framework/jet-dashboard/inc/data-manager.php:212
+#: includes/framework/jet-dashboard/inc/license-manager.php:76
+#: includes/framework/jet-dashboard/inc/plugin-manager.php:577
+msgid "Page has expired. Please reload this page."
+msgstr ""
+
+#: includes/framework/jet-dashboard/inc/data-manager.php:221
+msgid "Sorry, you are not allowed to do that on this site."
+msgstr ""
+
+#: includes/framework/jet-dashboard/inc/license-manager.php:85
+msgid "Sorry, you are not allowed to manage license data on this site."
+msgstr ""
+
+#: includes/framework/jet-dashboard/inc/license-manager.php:292
+msgid "License expires soon!"
+msgstr ""
+
+#: includes/framework/jet-dashboard/inc/license-manager.php:293
+msgid ""
+"Your primary license will expire in 30 days. You can renew you current "
+"licese in your crocoblock account"
+msgstr ""
+
+#: includes/framework/jet-dashboard/inc/license-manager.php:296
+msgid "Go to account"
+msgstr ""
+
+#: includes/framework/jet-dashboard/inc/license-manager.php:486
+msgid "The site is not activated"
+msgstr ""
+
+#: includes/framework/jet-dashboard/inc/license-manager.php:487
+msgid ""
+"Your license key is not activated for this site. Go to the license manager "
+"and activate your key"
+msgstr ""
+
+#: includes/framework/jet-dashboard/inc/license-manager.php:490
+#: includes/framework/jet-dashboard/inc/license-manager.php:537
+msgid "Activate"
+msgstr ""
+
+#: includes/framework/jet-dashboard/inc/license-manager.php:533
+msgid "License data deleted"
+msgstr ""
+
+#: includes/framework/jet-dashboard/inc/license-manager.php:534
+msgid ""
+"This site is not activated for this license. The old key data has been "
+"deleted. Go to the license manager and activate your key"
+msgstr ""
+
+#: includes/framework/jet-dashboard/inc/modules/license/module.php:37
+msgid "Plugin Manager"
+msgstr ""
+
+#: includes/framework/jet-dashboard/inc/modules/license/module.php:65
+#: includes/framework/jet-dashboard/inc/modules/license/module.php:66
+msgid "Update & Installation"
+msgstr ""
+
+#: includes/framework/jet-dashboard/inc/modules/license/module.php:84
+#: includes/framework/jet-dashboard/inc/modules/license/module.php:85
+msgid "License"
+msgstr ""
+
+#: includes/framework/jet-dashboard/inc/modules/settings/module.php:74
+#: includes/framework/jet-dashboard/inc/modules/settings/module.php:75
+msgid "JetPlugins Settings"
+msgstr ""
+
+#: includes/framework/jet-dashboard/inc/modules/upsale/module.php:49
+#: includes/framework/jet-dashboard/inc/modules/upsale/module.php:176
+#: includes/framework/jet-dashboard/views/upsale/main.php:38
+msgid "Get Crocoblock"
+msgstr ""
+
+#: includes/framework/jet-dashboard/inc/modules/upsale/module.php:97
+#: includes/framework/jet-dashboard/inc/modules/upsale/module.php:98
+#: includes/framework/jet-dashboard/inc/modules/upsale/module.php:170
+msgid "Go Lifetime"
+msgstr ""
+
+#: includes/framework/jet-dashboard/inc/modules/upsale/module.php:115
+#: includes/framework/jet-dashboard/inc/modules/upsale/module.php:116
+#: includes/framework/jet-dashboard/inc/modules/upsale/module.php:173
+msgid "Go All-Inclusive"
+msgstr ""
+
+#: includes/framework/jet-dashboard/inc/modules/welcome/dev-test.php:37
+msgid "Dev Test Page"
+msgstr ""
+
+#: includes/framework/jet-dashboard/inc/modules/welcome/module.php:37
+msgid "Welcome"
+msgstr ""
+
+#: includes/framework/jet-dashboard/inc/notice-manager.php:141
+msgid "Your site."
+msgstr ""
+
+#: includes/framework/jet-dashboard/inc/notice-manager.php:142
+msgid "Your site database needs to be updated to the latest version."
+msgstr ""
+
+#: includes/framework/jet-dashboard/inc/notice-manager.php:145
+#: includes/framework/jet-dashboard/views/welcome/main.php:35
+msgid "Update Now"
+msgstr ""
+
+#: includes/framework/jet-dashboard/inc/notice-manager.php:188
+msgid "Dismiss this notice."
+msgstr ""
+
+#: includes/framework/jet-dashboard/inc/plugin-manager.php:224
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: includes/framework/jet-dashboard/inc/plugin-manager.php:640
+msgid "Server error. Stop cheating!!!"
+msgstr ""
+
+#: includes/framework/jet-dashboard/jet-dashboard.php:253
+#: includes/framework/jet-dashboard/jet-dashboard.php:254
+msgid "Crocoblock"
+msgstr ""
+
+#: includes/framework/jet-dashboard/jet-dashboard.php:266
+#: includes/framework/jet-dashboard/jet-dashboard.php:267
+msgid "Dashboard"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/common/sidebar.php:28
+msgid "New to Crocoblock?"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/common/sidebar.php:29
+msgid "Start Here"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/common/sidebar.php:63
+msgid "Support & Info"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/common/sidebar.php:64
+msgid "Help Center"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/license/license-item.php:9
+msgid "JetPlugins License Activation"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/license/license-item.php:10
+msgid "Congratulations!"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/license/license-item.php:10
+msgid "Your license has been activated!"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/license/license-item.php:13
+msgid "Activate license for automatic updates and awesome support"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/license/license-item.php:32
+#: includes/framework/jet-dashboard/views/license/license-item.php:103
+#: includes/framework/jet-dashboard/views/license/main.php:146
+msgid "Activate License"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/license/license-item.php:33
+#: includes/framework/jet-dashboard/views/license/license-item.php:104
+msgid "Deactivate License"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/license/license-item.php:44
+msgid "License Key:"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/license/license-item.php:48
+msgid "Product Name:"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/license/license-item.php:52
+#: templates/admin/jet-abaf-bookings/add-new-booking.php:45
+#: templates/admin/jet-abaf-bookings/bookings-list.php:316
+msgid "Status:"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/license/license-item.php:56
+msgid "Type:"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/license/license-item.php:60
+msgid "Expiration Date:"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/license/license-item.php:64
+msgid "Included Plugins:"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/license/license-item.php:84
+msgid ""
+"This license will activate licenses for all plugins included in this set."
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/license/license-item.php:94
+#: includes/framework/jet-dashboard/views/license/main.php:35
+#: includes/framework/jet-dashboard/views/license/main.php:115
+msgid "License Manager"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/license/main.php:10
+msgid "Your Installed JetPlugins"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/license/main.php:22
+msgid "Check For Updates"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/license/main.php:54
+msgid "More included JetPlugins with your licence"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/license/main.php:70
+#: includes/framework/jet-dashboard/views/welcome/main.php:207
+msgid "Get More Plugins"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/license/main.php:105
+msgid "JetPlugins License Deactivation"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/license/main.php:108
+msgid ""
+"Your license includes several plugins within the package. License "
+"deactivation in one plugin disables it in the rest of them. You can manage "
+"it through the License Manager."
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/license/main.php:128
+msgid "JetPlugin’s Update"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/license/main.php:139
+msgid "Sorry, but you need to activate license to update your JetPlugin"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/license/main.php:160
+msgid "Your Licenses"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/license/main.php:169
+msgid "Add New License"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/license/main.php:174
+msgid ""
+"Add and Activate license for automatic updates, awesome support, useful "
+"features and more"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/upsale/main.php:12
+#: includes/macros/traits/booking-price-per-day-night-trait.php:66
+msgid "Dynamic"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/upsale/main.php:18
+msgid "E-commerce"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/upsale/main.php:24
+msgid "Design"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/upsale/main.php:27
+msgid "18 Advanced JetPlugins"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/upsale/main.php:28
+msgid ""
+"Unlock the ultimate website building toolkit for Elementor 150+ widgets and "
+"50+ templates"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/welcome/main.php:20
+msgid "Manage plugins"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/welcome/main.php:21
+msgid "Updates"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/welcome/main.php:45
+#: includes/framework/jet-dashboard/views/welcome/main.php:95
+msgid "Activate Now"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/welcome/main.php:60
+msgid "Manage license"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/welcome/main.php:61
+msgid "Active Licence"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/welcome/main.php:85
+msgid "License not active"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/welcome/main.php:94
+msgid "Manage Now"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/welcome/main.php:109
+msgid "Installed JetPlugins"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/welcome/main.php:135
+msgid "Install"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/welcome/main.php:168
+msgid "Install Wizard"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/welcome/main.php:179
+msgid "Activate Wizard"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/welcome/main.php:191
+msgid "Enjoy the perks of All-inclusive"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/welcome/main.php:223
+msgid "Get a JetPlugins bundle"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/welcome/main.php:224
+msgid "Save up to 60%"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/welcome/main.php:234
+msgid "See all plans"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/welcome/main.php:246
+msgid "Hot Deals"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/welcome/plugin-item-registered.php:29
+msgid "Documentation"
+msgstr ""
+
+#: includes/framework/jet-dashboard/views/welcome/plugin-item-registered.php:55
+msgid "Plugin pages"
+msgstr ""
+
+#: includes/google-calendar.php:114 includes/google-calendar.php:120
+msgid "Booking ID not found in the request."
+msgstr ""
+
+#: includes/google-calendar.php:126
+msgid "Booking not found in the database."
+msgstr ""
+
+#: includes/google-calendar.php:132
+msgid "Can`t build add to calendar URL."
+msgstr ""
+
+#: includes/google-calendar.php:164
+msgid "Your booking at"
+msgstr ""
+
+#: includes/ical.php:72
+msgid "Post ID not found."
+msgstr ""
+
+#: includes/ical.php:86
+msgid "External calendars is not found for this item."
+msgstr ""
+
+#: includes/ical.php:94
+msgid "Can`t access caledar"
+msgstr ""
+
+#: includes/ical.php:101
+msgid "Empty response from calendar"
+msgstr ""
+
+#: includes/ical.php:134
+msgid "Bookings not found"
+msgstr ""
+
+#: includes/ical.php:181
+#, php-format
+msgid ""
+"<i> Inserted bookings: </i> %d units <br><i>Skipped bookings: </i> %d units"
+msgstr ""
+
+#: includes/ical.php:200 includes/ical.php:207
+msgid "Invalid request data"
+msgstr ""
+
+#: includes/ical.php:357
+msgid "Booking Item"
+msgstr ""
+
+#: includes/macros/tags/booking-instance-meta.php:34
+msgid "Booking Instance Meta"
+msgstr ""
+
+#: includes/macros/tags/booking-instance-meta.php:50
+msgid "Meta field"
+msgstr ""
+
+#: includes/macros/tags/booking-instance-title.php:34
+msgid "Booking Instance Title"
+msgstr ""
+
+#: includes/macros/traits/booking-column-trait.php:52
+msgid "Select additional database column to get macros data from."
+msgstr ""
+
+#: includes/macros/traits/booking-data-trait.php:48
+msgid "Data Type"
+msgstr ""
+
+#: includes/macros/traits/booking-data-trait.php:49
+msgid "Select data type to get macros value from."
+msgstr ""
+
+#: includes/macros/traits/booking-data-trait.php:51
+#: templates/admin/jet-abaf-bookings/bookings-filter.php:200
+#: templates/admin/jet-abaf-bookings/bookings-list.php:16
+#: templates/admin/post-meta/upcoming-bookings.php:5
+#: templates/woocommerce/myaccount/bookings.php:25
+#: templates/woocommerce/myaccount/bookings.php:48
+msgid "ID"
+msgstr ""
+
+#: includes/macros/traits/booking-data-trait.php:53
+msgid "Order ID"
+msgstr ""
+
+#: includes/macros/traits/booking-data-trait.php:61
+msgid "Data Format"
+msgstr ""
+
+#: includes/macros/traits/booking-data-trait.php:62
+msgid "Select data format to get formatted macros value."
+msgstr ""
+
+#: includes/macros/traits/booking-data-trait.php:64
+#: templates/admin/jet-abaf-settings/settings-general.php:8
+msgid "Plain"
+msgstr ""
+
+#: includes/macros/traits/booking-data-trait.php:65
+msgid "Readable"
+msgstr ""
+
+#: includes/macros/traits/booking-data-trait.php:74
+msgid "Date Format"
+msgstr ""
+
+#: includes/macros/traits/booking-data-trait.php:75
+msgid ""
+"Specify the date format in which check-in and check-out dates columns should "
+"be displayed."
+msgstr ""
+
+#: includes/macros/traits/booking-price-per-day-night-trait.php:34
+msgid "Booking Price Per Day/Night"
+msgstr ""
+
+#: includes/macros/traits/booking-price-per-day-night-trait.php:50
+msgid "Shown Price"
+msgstr ""
+
+#: includes/macros/traits/booking-price-per-day-night-trait.php:51
+msgid "Select booking price that will be displayed."
+msgstr ""
+
+#: includes/macros/traits/booking-price-per-day-night-trait.php:54
+msgid "Min Price"
+msgstr ""
+
+#: includes/macros/traits/booking-price-per-day-night-trait.php:55
+msgid "Max Price"
+msgstr ""
+
+#: includes/macros/traits/booking-price-per-day-night-trait.php:56
+msgid "Prices Range"
+msgstr ""
+
+#: includes/macros/traits/booking-price-per-day-night-trait.php:62
+msgid "Price Type"
+msgstr ""
+
+#: includes/macros/traits/booking-price-per-day-night-trait.php:63
+msgid ""
+"Dynamic price type will change price dynamically on check-in check-out dates "
+"select. Will work correctly only when appropriate form presented on the page."
+msgstr ""
+
+#: includes/macros/traits/booking-price-per-day-night-trait.php:65
+msgid "Static"
+msgstr ""
+
+#: includes/macros/traits/booking-price-per-day-night-trait.php:72
+msgid "Currency Sign"
+msgstr ""
+
+#: includes/macros/traits/booking-price-per-day-night-trait.php:77
+msgid "Currency Sign Position"
+msgstr ""
+
+#: includes/macros/traits/booking-unit-title-trait.php:32
+msgid "Booking Unit Title"
+msgstr ""
+
+#: includes/macros/traits/booking-units-count-trait.php:32
+msgid "Booking Units Count"
+msgstr ""
+
+#: includes/macros/traits/bookings-count-trait.php:32
+msgid "Bookings Count"
+msgstr ""
+
+#: includes/macros/traits/bookings-count-trait.php:49
+#: includes/macros/traits/bookings-count-trait.php:54
+msgid ""
+"Enter date in Universal time format: `Y-m-d H:i:s` or `Y-m-d`. Example: "
+"`1996-04-09 00:00:00` or `1996-04-09`."
+msgstr ""
+
+#: includes/macros/traits/bookings-count-trait.php:76
+msgid "Please specify date range."
+msgstr ""
+
+#: includes/rest-api/endpoints/add-booking.php:41
+msgid "Booking could not be added."
+msgstr ""
+
+#: includes/rest-api/endpoints/add-booking.php:48
+msgid "Booking date is empty."
+msgstr ""
+
+#: includes/rest-api/endpoints/add-booking.php:92
+msgid "Can`t add this item."
+msgstr ""
+
+#: includes/rest-api/endpoints/add-booking.php:125
+#, php-format
+msgid "This is %s post."
+msgstr ""
+
+#: includes/rest-api/endpoints/booked-dates.php:43
+msgid "No data to check booked dates."
+msgstr ""
+
+#: includes/rest-api/endpoints/booked-dates.php:52
+msgid "Incorrect item data."
+msgstr ""
+
+#: includes/rest-api/endpoints/delete-booking.php:41
+msgid "Booking ID is not found in request."
+msgstr ""
+
+#: includes/rest-api/endpoints/synch-calendar.php:43
+msgid "Post ID not found in the request"
+msgstr ""
+
+#: includes/rest-api/endpoints/update-booking.php:54
+msgid "Incorrect item data"
+msgstr ""
+
+#: includes/rest-api/endpoints/update-booking.php:67
+msgid "No data to update."
+msgstr ""
+
+#: includes/rest-api/endpoints/update-booking.php:115
+msgid "Can`t update this item."
+msgstr ""
+
+#: includes/rest-api/endpoints/update-calendar.php:44
+msgid "Post ID not found in the request."
+msgstr ""
+
+#: includes/settings.php:179
+msgid "Empty data."
+msgstr ""
+
+#: includes/settings.php:206
+msgid ""
+"WooCommerce Based booking mode setting requires WooCommerce to be installed "
+"and activated."
+msgstr ""
+
+#: includes/settings.php:212
+msgid ""
+"Settings saved! <br> This setting requires page reloading. Page will be "
+"reloaded automatically in a few seconds."
+msgstr ""
+
+#: includes/settings.php:251
+msgid "DB tables created!"
+msgstr ""
+
+#: includes/settings.php:261
+msgid "DB tables updated!"
+msgstr ""
+
+#: includes/statuses.php:20
+msgctxt "Order status"
+msgid "Completed"
+msgstr ""
+
+#: includes/statuses.php:21
+msgctxt "Order status"
+msgid "Processing"
+msgstr ""
+
+#: includes/statuses.php:22
+msgctxt "Order status"
+msgid "On hold"
+msgstr ""
+
+#: includes/statuses.php:23
+msgctxt "Order status"
+msgid "Pending"
+msgstr ""
+
+#: includes/statuses.php:24
+msgctxt "Order status"
+msgid "Refunded"
+msgstr ""
+
+#: includes/statuses.php:25
+msgctxt "Order status"
+msgid "Cancelled"
+msgstr ""
+
+#: includes/statuses.php:26
+msgctxt "Order status"
+msgid "Failed"
+msgstr ""
+
+#: includes/statuses.php:27
+msgctxt "Order status"
+msgid "Created"
+msgstr ""
+
+#: includes/upgrade.php:55
+msgid "Start Update"
+msgstr ""
+
+#: includes/upgrade.php:56
+msgid "Data Update"
+msgstr ""
+
+#: includes/upgrade.php:58
+#, php-format
+msgid ""
+"Module DB Updater init error in %s - version and slug is required arguments."
+msgstr ""
+
+#: includes/upgrade.php:59
+msgid "We need to update your database to the latest version."
+msgstr ""
+
+#: includes/upgrade.php:60
+msgid "DB Update complete, thank you for updating to the latest version!"
+msgstr ""
+
+#: includes/wc-integration/class-wc-cart-manager.php:67
+#: includes/wc-integration/class-wc-cart-manager.php:72
+msgid "Dates is a required field(s)."
+msgstr ""
+
+#: includes/wc-integration/class-wc-cart-manager.php:86
+msgid "Booking could not be added. Selected dates are no longer available."
+msgstr ""
+
+#: includes/wc-integration/class-wc-cart-manager.php:304
+#, php-format
+msgid "A booking for %s has been removed from your cart due to inactivity."
+msgstr ""
+
+#: includes/wc-integration/class-wc-cart-manager.php:307
+#, php-format
+msgid "Bookings for %s have been removed from your cart due to inactivity."
+msgstr ""
+
+#: includes/wc-integration/class-wc-order-details-builder.php:119
+msgid "Booking instance"
+msgstr ""
+
+#: includes/wc-integration/class-wc-order-details-builder.php:151
+#: templates/admin/jet-abaf-bookings/bookings-list.php:24
+msgid "Unit"
+msgstr ""
+
+#: includes/wc-integration/class-wc-order-details-builder.php:181
+msgid "Add"
+msgstr ""
+
+#: includes/wc-integration/class-wc-order-details-builder.php:184
+msgid "Add to calendar"
+msgstr ""
+
+#: includes/wc-integration/class-wc-order-details-builder.php:263
+msgid "You don`t have access to this post."
+msgstr ""
+
+#: includes/wc-integration/class-wc-order-manager.php:423
+#, php-format
+msgid "Booking #%s status changed to %s."
+msgstr ""
+
+#: includes/wc-integration/class-wc-order-manager.php:446
+#, php-format
+msgid "Refunded Booking #%s."
+msgstr ""
+
+#: includes/wc-integration/class-wc-order-manager.php:475
+#, php-format
+msgid "<br> - Status changed from %s to %s."
+msgstr ""
+
+#: includes/wc-integration/class-wc-order-manager.php:480
+#, php-format
+msgid "<br> - Item changed from %s to %s."
+msgstr ""
+
+#: includes/wc-integration/class-wc-order-manager.php:487
+#, php-format
+msgid "<br> - Check in date changed from %s to %s."
+msgstr ""
+
+#: includes/wc-integration/class-wc-order-manager.php:492
+#, php-format
+msgid "<br> - Check out date changed from %s to %s."
+msgstr ""
+
+#: includes/wc-integration/class-wc-order-manager.php:515
+#, php-format
+msgid "<br> - Total price of the order decreased by %s."
+msgstr ""
+
+#: includes/wc-integration/class-wc-order-manager.php:517
+#, php-format
+msgid "<br> - Total price of the order increased by %s."
+msgstr ""
+
+#: includes/wc-integration/class-wc-order-manager.php:524
+#, php-format
+msgid "Updated Booking #%s. %s"
+msgstr ""
+
+#: includes/wc-integration/class-wc-order-manager.php:562
+#, php-format
+msgid "Deleted Booking #%s."
+msgstr ""
+
+#: includes/wc-integration/class-wc-product-jet-booking.php:87
+msgid "View details"
+msgstr ""
+
+#: includes/wc-integration/class-wc-product-jet-booking.php:98
+msgid "Book now"
+msgstr ""
+
+#: includes/wc-integration/class-wc-product-jet-booking.php:113
+#, php-format
+msgid "Book &ldquo;%s&rdquo;"
+msgstr ""
+
+#: includes/wc-integration/manager.php:86
+msgid "Invalid booking."
+msgstr ""
+
+#: includes/wc-integration/manager.php:89
+msgid "Your booking was cancelled."
+msgstr ""
+
+#: includes/wc-integration/manager.php:228
+msgid "Past Bookings"
+msgstr ""
+
+#: includes/wc-integration/manager.php:235
+msgid "Today's Bookings"
+msgstr ""
+
+#: includes/wc-integration/modes/based.php:130
+msgid "JetBooking product"
+msgstr ""
+
+#: includes/wc-integration/modes/based.php:195
+msgid ""
+"JetBooking product types not require default product data panels. Instead, "
+"you can control your booking instance with the help of custom meta boxes, "
+"improving user experience and streamlining management."
+msgstr ""
+
+#: includes/wc-integration/modes/based.php:196
+msgid ""
+"Custom meta boxes showcase relevant information and settings, ensuring "
+"efficiency and simplicity in booking product creation. This customization "
+"allows for a more focused and intuitive interface for managing and "
+"configuring your booking products."
+msgstr ""
+
+#: includes/wc-integration/modes/based.php:410
+msgid "Total:"
+msgstr ""
+
+#: includes/wc-integration/modes/plain.php:309
+msgid ""
+"The dates you have selected are already booked. Please select different "
+"dates."
+msgstr ""
+
+#: includes/wc-integration/modes/plain.php:521
+#, php-format
+msgid "Booking #%d update."
+msgstr ""
+
+#: templates/admin/booking-summary.php:18 templates/booking-summary.php:20
+#, php-format
+msgid "Booking #%s"
+msgstr ""
+
+#: templates/admin/booking-summary.php:23 templates/booking-summary.php:24
+#, php-format
+msgid "Check in: %s"
+msgstr ""
+
+#: templates/admin/booking-summary.php:26 templates/booking-summary.php:27
+#, php-format
+msgid "Check out: %s"
+msgstr ""
+
+#: templates/admin/booking-summary.php:30
+msgid "View details &rarr;"
+msgstr ""
+
+#: templates/admin/common/go-to-setup.php:4
+msgid "Start with some basic settings before using."
+msgstr ""
+
+#: templates/admin/common/go-to-setup.php:9
+msgid "Go to setup"
+msgstr ""
+
+#: templates/admin/common/wc-details-builder.php:7
+msgid "Set up WooCommerce order details"
+msgstr ""
+
+#: templates/admin/common/wc-details-builder.php:73
+msgid "Formatting docs"
+msgstr ""
+
+#: templates/admin/common/wc-details-builder.php:85
+msgid "Select field..."
+msgstr ""
+
+#: templates/admin/common/wc-details-builder.php:116
+msgid "+ Add new item"
+msgstr ""
+
+#: templates/admin/common/wc-details-builder.php:131
+#: templates/admin/post-meta/price-meta.php:235
+msgid "Saving..."
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/add-new-booking.php:17
+#: templates/admin/jet-abaf-bookings/add-new-booking.php:25
+msgid "Add New"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/add-new-booking.php:30
+msgid "Add New Booking:"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/add-new-booking.php:58
+#: templates/admin/jet-abaf-bookings/bookings-list.php:329
+msgid "Booking Item:"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/add-new-booking.php:69
+#, php-format
+msgid ""
+"No booking products found. Create booking products to start using this "
+"functionality. <a href=\"%s\" target=\"_blank\">Create your first product</"
+"a>."
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/add-new-booking.php:81
+#: templates/admin/jet-abaf-bookings/bookings-list.php:346
+msgid "Check in:"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/add-new-booking.php:90
+#: templates/admin/jet-abaf-bookings/bookings-list.php:355
+msgid "Check out:"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/add-new-booking.php:100
+#: templates/admin/jet-abaf-bookings/bookings-list.php:365
+msgid "Booking Price:"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/add-new-booking.php:124
+msgid "Create Booking Order"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/add-new-booking.php:128
+msgid "Create WC Order"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/add-new-booking.php:139
+msgid "Order Status:"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/add-new-booking.php:152
+msgid "Billing details:"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/add-new-booking.php:161
+msgid "First Name:"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/add-new-booking.php:170
+msgid "Last Name:"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/add-new-booking.php:179
+msgid "Email Address:"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/add-new-booking.php:188
+msgid "Phone:"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/bookings-filter.php:11
+msgid "All"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/bookings-filter.php:21
+msgid "Upcoming"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/bookings-filter.php:31
+msgid "Past"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/bookings-filter.php:57
+msgid "Filters"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/bookings-filter.php:83
+#: templates/admin/jet-abaf-bookings/bookings-filter.php:144
+msgid "Export"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/bookings-filter.php:110
+msgid "dd/mm/yyyy"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/bookings-filter.php:136
+msgid "Clear"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/bookings-filter.php:151
+msgid "Export bookings"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/bookings-filter.php:156
+msgid "Bookings to export"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/bookings-filter.php:157
+msgid "Select type of bookings to export."
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/bookings-filter.php:161
+msgid "All bookings"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/bookings-filter.php:165
+msgid "Filtered bookings"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/bookings-filter.php:175
+msgid "Export format"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/bookings-filter.php:176
+msgid "Select format of exported data."
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/bookings-filter.php:180
+msgid "CSV"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/bookings-filter.php:184
+msgid "iCal"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/bookings-filter.php:195
+msgid "Booking instance returns"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/bookings-filter.php:196
+msgid ""
+"Select type of information that should be returned in booking instance "
+"columns."
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/bookings-filter.php:204
+#: templates/admin/post-meta/price-meta.php:61 templates/units-manager.php:150
+msgid "Title"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/bookings-filter.php:216
+msgid ""
+"Specify the date format in which check-in and check-out dates columns should "
+"be displayed. <a href='https://wordpress.org/support/article/formatting-date-"
+"and-time/' target='_blank'>Documentation on date and time formatting</a>."
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/bookings-list.php:4
+msgid "No bookings found"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/bookings-list.php:51
+#: templates/admin/post-meta/upcoming-bookings.php:8
+msgid "Related Order"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/bookings-list.php:64
+#: templates/admin/jet-abaf-calendars/calendars-list.php:35
+#: templates/admin/post-meta/upcoming-bookings.php:11
+#: templates/units-manager.php:35
+msgid "Actions"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/bookings-list.php:157
+#: templates/admin/jet-abaf-bookings/bookings-list.php:265
+#: templates/units-manager.php:104
+msgid "Delete"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/bookings-list.php:163
+msgid "Are you sure? Deleted booking can't be restored."
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/bookings-list.php:198
+msgid "Booking Details:"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/bookings-list.php:281
+msgid "Edit Booking:"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/bookings-list.php:304
+msgid "Order ID:"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/bookings-list.php:375
+msgid "Booking Unit:"
+msgstr ""
+
+#: templates/admin/jet-abaf-bookings/bookings-list.php:402
+msgid "Recalculate order totals:"
+msgstr ""
+
+#: templates/admin/jet-abaf-calendars/calendars-list.php:9
+msgid "iCalendar Template"
+msgstr ""
+
+#: templates/admin/jet-abaf-calendars/calendars-list.php:16
+msgid "No calendars found"
+msgstr ""
+
+#: templates/admin/jet-abaf-calendars/calendars-list.php:23
+msgid "Post Title"
+msgstr ""
+
+#: templates/admin/jet-abaf-calendars/calendars-list.php:26
+msgid "Unit Title"
+msgstr ""
+
+#: templates/admin/jet-abaf-calendars/calendars-list.php:29
+msgid "Export URL"
+msgstr ""
+
+#: templates/admin/jet-abaf-calendars/calendars-list.php:32
+msgid "External Calendars"
+msgstr ""
+
+#: templates/admin/jet-abaf-calendars/calendars-list.php:71
+msgid "Synch"
+msgstr ""
+
+#: templates/admin/jet-abaf-calendars/calendars-list.php:81
+msgid "Edit Calendars"
+msgstr ""
+
+#: templates/admin/jet-abaf-calendars/calendars-list.php:97
+msgid "Edit Calendars:"
+msgstr ""
+
+#: templates/admin/jet-abaf-calendars/calendars-list.php:108
+msgid "+ New URL"
+msgstr ""
+
+#: templates/admin/jet-abaf-calendars/calendars-list.php:117
+#: templates/admin/post-meta/price-meta.php:253
+msgid "Close"
+msgstr ""
+
+#: templates/admin/jet-abaf-calendars/calendars-list.php:122
+msgid "Synchronizing Calendars:"
+msgstr ""
+
+#: templates/admin/jet-abaf-calendars/calendars-list.php:126
+msgid "Processing..."
+msgstr ""
+
+#: templates/admin/jet-abaf-calendars/calendars-list.php:141
+msgid "iCalendar Template:"
+msgstr ""
+
+#: templates/admin/jet-abaf-calendars/calendars-list.php:146
+msgid "Summary:"
+msgstr ""
+
+#: templates/admin/jet-abaf-calendars/calendars-list.php:155
+msgid "Description:"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:9
+msgid "<span>JetBooking</span> / Setup Wizard"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:30
+msgid "Welcome to JetBooking Setup Wizard"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:34
+msgid "Choose Booking Mode"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:46
+msgid "Plain mode"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:53
+msgid ""
+"A flexible booking setup. It uses separate CPTs for bookings and orders "
+"(both JetEngine-built and not), a customizable booking form, and doesn't "
+"require additional plugins."
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:66
+msgid "WooCommerce-based mode"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:73
+msgid ""
+"Creates a deep WooCommerce integration and configures everything from "
+"Products CPT to checkout and payments. Easy setup compared to Plain mode."
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:79
+#, php-format
+msgid ""
+"WooCommerce plugin isn't installed. To activate the mode, you need to <a "
+"href=\"%s\" target=\"_blank\">install the plugin</a> and refresh the page."
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:89
+msgid "Start setup"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:97
+msgid "Set Up Booking Instance "
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:99
+msgid ""
+"Select a Custom Post Type (CPT) for the booking instance. For instance, the "
+"\"Apartments\" Post Type is for apartment bookings and the \"Cars\" CPT is "
+"for car bookings."
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:107
+msgid "Booking Post Type"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:116
+#: templates/admin/jet-abaf-set-up/set-up.php:172
+msgid "OR"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:125
+#: templates/admin/jet-abaf-set-up/set-up.php:181
+msgid "Create new post type"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:136
+#: templates/admin/jet-abaf-set-up/set-up.php:192
+msgid "Select post type"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:148
+msgid "Set Up Orders"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:151
+msgid ""
+"Choose a Custom Post Type (CPT) for storing booking orders. Orders will be "
+"available in the WordPress dashboard and the default WooCommerce Orders CPT. "
+"<i>If you enable WooCommerce basic integration, it will be impossible to "
+"select the CPT</i>."
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:159
+msgid "Order Post Type"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:163
+msgid "Select a Custom Post Type where booking orders will be stored."
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:204
+msgid "WooCommerce basic integration"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:205
+msgid ""
+"Enable the toggle if you want to integrate booking orders with WooCommerce."
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:212
+#, php-format
+msgid ""
+"WooCommerce plugin isn't installed. To enable the integration, you need to "
+"<a href=\"%s\" target=\"_blank\">install the plugin</a> and refresh the page."
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:221
+#: templates/admin/jet-abaf-settings/settings-general.php:76
+msgid "Two-way WooCommerce orders sync"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:222
+msgid ""
+"Enable this toggle to update WooCommerce order status on the booking status "
+"change (by default, the booking status change doesn't affect the related "
+"order)."
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:231
+msgid "Set Up Database Tables"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:233
+msgid ""
+"Generate default and add custom database columns for storing booking "
+"details. All columns will appear in the plugin Settings Tools tab, and their "
+"data will be stored in the associated database."
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:241
+msgid "Default database columns"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:245
+msgid "These are default database columns created for you automatically."
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:258
+msgid "Custom database columns"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:261
+msgid ""
+"Add more database columns if needed. Spaces will be converted to \"_\" ."
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:275
+msgid "Enter column name"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:288
+msgid "Copy column"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:300
+msgid "Delete column"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:311
+msgid "Add new column"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:321
+msgid "Booking Form Settings"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:324
+msgid ""
+"Generate a standard booking form and add it to the booking instance single "
+"page. The form will appear in the <b>JetFormBuilder > Forms tab</b>."
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:330
+msgid "Create Booking Form"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:331
+msgid "Enable to generate a single page booking form."
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:337
+msgid ""
+"For form creation purposes, a free JetFormBuilder plugin will be installed "
+"and activated."
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:344
+msgid "Finish Setup"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:348
+msgid "Congrats, you finished the setup"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:351
+msgid ""
+"These are all settings you configured during the setup. You can adjust them "
+"in the Booking Settings if needed. Please remember you can disable Setup "
+"Wizard in the <b>Booking Settings</b> > <b>Advanced tab</b>."
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:361
+msgid "Custom post type settings"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:365
+msgid "Selected custom post types."
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:377
+msgid "Manage bookings"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:392
+#: templates/admin/jet-abaf-set-up/set-up.php:437
+msgid "Manage orders"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:407
+#: templates/admin/jet-abaf-settings/settings-general.php:67
+#: templates/admin/jet-abaf-settings/settings-general.php:121
+msgid "WooCommerce integration"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:411
+msgid "Proceed to manage related product and booking orders."
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:423
+msgid "Related product"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:453
+msgid "Form settings"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:457
+msgid "Proceed to customize the form."
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:469
+msgid "Link to created form"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:484
+msgid "WooCommerce mode settings"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:488
+msgid "Set additional WooCommerce mode settings."
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:500
+msgid "Create first booking product"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:514
+msgid "Manage all bookings"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:526
+msgid "What's Next"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:540
+msgid "Tutorial category"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:556
+msgid "Support link"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:572
+msgid "YouTube playlist"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:588
+msgid "Go to Booking Settings"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:600
+msgid "Back"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:612
+msgid "Finish setup"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:616
+msgid "Next step"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:629
+msgid "The booking system is already configured"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:636
+msgid "Reset all the current settings"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:640
+msgid "If you choose to reset, all existing booking settings will be lost."
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:650
+msgid "Reset data"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:659
+msgid "Keep data and set up manually"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:663
+msgid ""
+"All the previously configured settings will not be changed, and you can edit "
+"them manually."
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:678
+msgid "Go to settings"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:699
+msgid "Are you sure you want to delete all data?"
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:700
+msgid ""
+"After you confirm to \"Delete all data\", all settings, booking instances, "
+"units, and columns will be removed from the database. You won't be able to "
+"restore them."
+msgstr ""
+
+#: templates/admin/jet-abaf-set-up/set-up.php:715
+msgid "Delete all data"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-advanced.php:3
+msgid "Hide DB columns manager"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-advanced.php:4
+msgid ""
+"Check this to hide the columns manager option to prevent accidental DB "
+"changes."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-advanced.php:11
+msgid "Enable iCal synchronization"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-advanced.php:12
+msgid ""
+"Check this to allow export your bookings into iCal format and synchronize "
+"all your data with external calendars in iCal format."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-advanced.php:19
+msgid "Calendar sync interval"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-advanced.php:20
+msgid "Select interval between synchronizing calendars."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-advanced.php:31
+msgid "Calendar sync start"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-advanced.php:32
+msgid "Start calendar synchronization from this time."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-advanced.php:52
+msgid "Automatically remove temporary bookings"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-advanced.php:53
+msgid ""
+"Check this to allow automatically remove bookings from database with "
+"temporary status `Created`."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-advanced.php:61
+msgid "Remove interval"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-advanced.php:62
+msgid "Select interval between removing bookings with temporary status."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-advanced.php:71
+msgid "Booking cancellation"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-advanced.php:72
+msgid ""
+"Check this if the booking can be cancelled by the customer after it has been "
+"reserved. A refund will not be sent automatically."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-advanced.php:80
+msgid "Cancellation deadline"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-advanced.php:81
+msgid ""
+"Specify the limit and unit for cancellations before the start date of the "
+"booking."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-advanced.php:95
+msgid "Day(s)"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-advanced.php:99
+msgid "Week(s)"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-advanced.php:103
+msgid "Month(s)"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-advanced.php:113
+msgid "Hide Setup Wizard"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-advanced.php:114
+msgid ""
+"Enable the toggle to hide Set Up page and avoid unnecessary plugin resets."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-common-config.php:12
+msgid "One day bookings"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-common-config.php:13
+msgid ""
+"If this option is checked only single days bookings are allowed. If Weekly "
+"bookings are enabled this option will not work."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-common-config.php:21
+msgid "Week-long bookings"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-common-config.php:22
+msgid "If this option is checked, only week-long bookings are allowed."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-common-config.php:29
+msgid "Weekday offset"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-common-config.php:30
+msgid "Allows you to change the first booked day of the week."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-common-config.php:40
+#: templates/admin/post-meta/price-meta.php:114
+msgid "Starting day offset"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-common-config.php:41
+msgid ""
+"This string defines offset for the earliest date which is available to the "
+"user."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-common-config.php:50
+#: templates/admin/post-meta/price-meta.php:121
+msgid "Min days"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-common-config.php:51
+msgid ""
+"This number defines the minimum days of the selected range. If it equals 0, "
+"it means minimum days are not limited."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-common-config.php:60
+#: templates/admin/post-meta/price-meta.php:128
+msgid "Max days"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-common-config.php:61
+msgid ""
+"This number defines the maximum days of the selected range. If it equals 0, "
+"it means maximum days are not limited."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-configuration.php:3
+msgid "Booking period"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-configuration.php:4
+msgid ""
+"Define how the booking period will be calculated – per night (without the "
+"last booked date) or per day (including the last booked date).</br><b>Note:</"
+"b> this option will affect price calculation."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-configuration.php:8
+msgid "Per Night (last booked date is not included)"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-configuration.php:12
+msgid "Per Day (last booked date is included)"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-configuration.php:22
+msgid "Allow checkout only days"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-configuration.php:23
+msgid ""
+"If this option is checked, the first day of the already booked period will "
+"be available for checkout only."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:3
+msgid "Layout"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:4
+msgid "Define the arrangement and organization of the field within interface."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:12
+msgid "Separate fields"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:23
+msgid "Position"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:24
+msgid "Define the specific placement of the separate fields in interface."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:44
+msgid "Label for single field layout."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:53
+msgid "Placeholder"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:54
+msgid "Placeholder for single field layout."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:63
+msgid "Check in field label"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:64
+msgid "Label for check in field."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:73
+msgid "Check in field placeholder"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:74
+msgid "Placeholder for check in field."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:83
+msgid "Check out field label"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:84
+msgid "Label for check out field."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:93
+msgid "Check out field placeholder"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:94
+msgid "Placeholder for check out field."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:102
+msgid "Description"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:103
+msgid ""
+"Define explanation to describe and provide context for the field within "
+"interface."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:112
+msgid ""
+"Specific structure and representation used to express dates in a "
+"standardized way. Applies only to dates in the form of check-in/check-out "
+"fields."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:134
+msgid "Separator"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:135
+msgid ""
+"Pick a character that will be used to separate the day, month, and year "
+"components within a date."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:139
+#: templates/email-order-details-plain.php:15
+msgid "-"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:143
+msgid "."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:147
+msgid "/"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:161
+msgid "First day of the week"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-field-settings.php:162
+msgid "Set the start if the week day in the date picker."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-general.php:3
+msgid "Booking mode"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-general.php:4
+msgid ""
+"Select the booking mode type. It changes the display and behavior of the "
+"booking interface to match the chosen mode."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-general.php:12
+msgid "WooCommerce based"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-general.php:21
+msgid ""
+"Booking system focusing on the core functionality for managing bookings."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-general.php:26
+#, php-format
+msgid ""
+"<p>Requires <a href=\"%s\" target=\"_blank\">WooCommerce</a> to be installed "
+"and activated.</p>"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-general.php:32
+#, php-format
+msgid ""
+"<p>Create booking products to start using this functionality. <a href=\"%s\" "
+"target=\"_blank\">Create the first product</a>.</p>"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-general.php:38
+msgid ""
+"Booking system allowing you to create and manage custom products type "
+"specifically designed for booking and seamlessly integrate it into online "
+"store."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-general.php:44
+msgid "Booking orders post type"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-general.php:45
+msgid ""
+"Select the post type, which will record and store the booking orders. It "
+"could be called 'Orders'. Once a new order is placed, the record will appear "
+"in the corresponding database table within the chosen post type."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-general.php:55
+msgid "Booking instance post type"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-general.php:56
+msgid ""
+"Select the post type containing the units to be booked (booking instances). "
+"Once selected, the related post IDs will be shown in the Bookings database "
+"table."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-general.php:68
+msgid "Enable to connect the booking system to a WooCommerce checkout."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-general.php:77
+msgid ""
+"If you enable this option, WooCommerce order status will be updated once the "
+"booking status changes (by default, if you update a booking status, the "
+"related order will remain the same)."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-general.php:85
+msgid "Booking hold time"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-general.php:86
+msgid ""
+"Time during which the selected date range will be kept on hold after adding "
+"the booking instance to the cart."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-general.php:90
+msgid "5 min"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-general.php:94
+msgid "10 min"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-general.php:98
+msgid "15 min"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-general.php:102
+msgid "20 min"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-general.php:106
+msgid "25 min"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-general.php:110
+msgid "30 min"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-general.php:122
+msgid "Enable to connect the booking system with WooCommerce checkout."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-general.php:127
+#, php-format
+msgid ""
+"Please install and activate  <a href=\"%s\" target=\"_blank\">WooCommerce</"
+"a> to use this option."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-general.php:135
+msgid "Filters storage type"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-general.php:136
+msgid "Select the filter storage type for the searched date range."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-general.php:140
+msgid "Session"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-general.php:144
+msgid "Cookies"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:12
+msgid "Use custom labels"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:13
+msgid "Rewrite check-in/check-out calendar field labels."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:21
+msgid "Excluded dates"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:22
+msgid "Tooltip text for already booked dates. Default: Sold out."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:31
+#: templates/admin/jet-abaf-settings/settings-labels.php:40
+msgid "Only checkout allowed"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:32
+#: templates/admin/jet-abaf-settings/settings-labels.php:41
+msgid ""
+"Tooltip for dates when only checkout is allowed. Default: Only checkout."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:45
+msgid ""
+"This option is allowed only for 'Per Nights' bookings with 'Allow checkout "
+"only days' option enabled."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:49
+msgid "Before selected dates"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:50
+msgid "Text before selected dates range. Default: Chosen."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:58
+msgid "`Nights` text"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:59
+msgid "Text after nights number. Default: Nights."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:67
+msgid "`Days` text"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:68
+msgid "Text after days number. Default: Days."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:76
+msgid "`Apply` text"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:77
+msgid "Label for apply button. Default: Close."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:86
+msgid "Label/translation of Monday."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:94
+#: templates/admin/jet-abaf-settings/settings-schedule.php:82
+msgid "Tuesday"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:95
+msgid "Label/translation of Tuesday."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:103
+#: templates/admin/jet-abaf-settings/settings-schedule.php:119
+msgid "Wednesday"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:104
+msgid "Label/translation of Wednesday."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:112
+#: templates/admin/jet-abaf-settings/settings-schedule.php:156
+msgid "Thursday"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:113
+msgid "Label/translation of Thursday."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:121
+#: templates/admin/jet-abaf-settings/settings-schedule.php:193
+msgid "Friday"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:122
+msgid "Label/translation of Friday."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:130
+#: templates/admin/jet-abaf-settings/settings-schedule.php:230
+msgid "Saturday"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:131
+msgid "Label/translation of Saturday."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:140
+msgid "Label/translation of Sunday."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:148
+msgid "Month names"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:149
+msgid "Comma-separated list of month names. E.g. January, February, March, ..."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:157
+msgid "Past text"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:158
+msgid "Label for past dates. Default: Past."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:166
+msgid "Previous text"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:167
+msgid "Label for previous dates. Default: Previous."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:175
+msgid "Previous week"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:176
+msgid "Previous week text. Default: Week."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:184
+msgid "Previous month"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:185
+msgid "Previous month text. Default: Month."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:193
+msgid "Previous year"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-labels.php:194
+msgid "Previous year text. Default: Year."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-schedule.php:4
+msgid "Weekday Booking Rules"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-schedule.php:7
+msgid ""
+"Configure which weekdays will be available for checking in/out and which "
+"will be disabled."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-schedule.php:17
+msgid "Disable"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-schedule.php:304
+msgid "Days Off"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-schedule.php:310
+msgid "Set the days off, holidays, and weekend dates."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-schedule.php:315
+msgid "+ Add Days"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-schedule.php:337
+#: templates/units-manager.php:118
+msgid "Yes"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-schedule.php:341
+#: templates/units-manager.php:125
+msgid "No"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-schedule.php:366
+msgid "Select Days"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-schedule.php:370
+msgid "Range Label"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-schedule.php:371
+msgid ""
+"Name the range that will be unavailable for booking (e.g., name of the "
+"holiday)."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-schedule.php:380
+msgid "Start Date *"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-schedule.php:381
+msgid "Pick the start day."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-schedule.php:386
+#: templates/admin/jet-abaf-settings/settings-schedule.php:403
+#: templates/admin/post-meta/price-meta.php:141
+#: templates/admin/post-meta/price-meta.php:154
+msgid "Select Date"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-schedule.php:398
+msgid "Pick the end day."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-tools.php:3
+msgid "Before start you need to create required DB tables."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-tools.php:12
+msgid "Additional table columns"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-tools.php:15
+msgid ""
+"You can add custom columns to the booking table, which is best to do before "
+"table creation. Such columns are booking-specific and indicate additional "
+"services, details, etc. Once added, you need to map (connect) these new "
+"columns to the corresponding form fields in the related booking form."
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-tools.php:21
+msgid "New DB Column"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-tools.php:37
+msgid "Column name"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-tools.php:38
+msgid "Name for additional DB column"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-tools.php:48
+msgid ""
+"<b>Warning:</b> If you change or remove any columns, all data stored in "
+"these columns will be lost!"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-tools.php:59
+msgid "Create Booking Tables"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings-tools.php:62
+msgid "Update Booking Tables"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings.php:3
+msgid "Booking Settings"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings.php:29
+msgid "Labels"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings.php:57
+msgid "Advanced"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings.php:70
+msgid "Configuration"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings.php:83
+msgid "Schedule"
+msgstr ""
+
+#: templates/admin/jet-abaf-settings/settings.php:96
+msgid "Tools"
+msgstr ""
+
+#: templates/admin/order/details.php:15
+#: templates/email-order-details-html.php:8
+#: templates/email-order-details-plain.php:12 templates/order-details.php:14
+msgid "Booking Details"
+msgstr ""
+
+#: templates/admin/post-meta/configuration-meta.php:3
+#: templates/admin/post-meta/price-meta.php:103
+msgid "Date Picker Configuration"
+msgstr ""
+
+#: templates/admin/post-meta/configuration-meta.php:4
+msgid "You can enable and setup datepicker configuration for apartment."
+msgstr ""
+
+#: templates/admin/post-meta/custom-schedule-meta.php:3
+msgid "Use Custom Schedule"
+msgstr ""
+
+#: templates/admin/post-meta/custom-schedule-meta.php:4
+msgid "You can use a custom schedule for apartment."
+msgstr ""
+
+#: templates/admin/post-meta/price-meta.php:3
+#: templates/admin/post-meta/price-meta.php:68
+msgid "Price per 1 day/night"
+msgstr ""
+
+#: templates/admin/post-meta/price-meta.php:4
+msgid "Name: _apartment_price."
+msgstr ""
+
+#: templates/admin/post-meta/price-meta.php:25
+#: templates/admin/post-meta/price-meta.php:89
+msgid "Add rates"
+msgstr ""
+
+#: templates/admin/post-meta/price-meta.php:35
+#: templates/admin/post-meta/price-meta.php:98
+msgid "Add weekend "
+msgstr ""
+
+#: templates/admin/post-meta/price-meta.php:41
+msgid "Seasonal prices"
+msgstr ""
+
+#: templates/admin/post-meta/price-meta.php:45
+msgid "Add price"
+msgstr ""
+
+#: templates/admin/post-meta/price-meta.php:104
+msgid "You can enable and setup datepicker configuration for apartment season."
+msgstr ""
+
+#: templates/admin/post-meta/price-meta.php:184
+msgid "Set up advanced pricing rates"
+msgstr ""
+
+#: templates/admin/post-meta/price-meta.php:191
+#: templates/admin/post-meta/price-meta.php:209
+msgid "From"
+msgstr ""
+
+#: templates/admin/post-meta/price-meta.php:193
+#: templates/admin/post-meta/price-meta.php:211
+msgid "days/nights"
+msgstr ""
+
+#: templates/admin/post-meta/price-meta.php:199
+#: templates/admin/post-meta/price-meta.php:217
+#: templates/admin/post-meta/price-meta.php:285
+msgid "per day/night"
+msgstr ""
+
+#: templates/admin/post-meta/price-meta.php:226
+msgid "+ Add new rate"
+msgstr ""
+
+#: templates/admin/post-meta/price-meta.php:256
+msgid "Set up weekend pricing"
+msgstr ""
+
+#: templates/admin/post-meta/upcoming-bookings.php:7
+#: templates/units-manager.php:27
+msgid "Unit ID"
+msgstr ""
+
+#: templates/admin/post-meta/upcoming-bookings.php:53
+msgid "There are no upcoming bookings."
+msgstr ""
+
+#: templates/admin/post-meta/upcoming-bookings.php:58
+msgid "Go to All Bookings"
+msgstr ""
+
+#: templates/units-manager.php:9
+msgid "Manage Units"
+msgstr ""
+
+#: templates/units-manager.php:15
+msgid "Available Units"
+msgstr ""
+
+#: templates/units-manager.php:20
+msgid "No units were found for this apartment."
+msgstr ""
+
+#: templates/units-manager.php:31
+msgid "Name"
+msgstr ""
+
+#: templates/units-manager.php:136 templates/units-manager.php:163
+msgid "Add Units"
+msgstr ""
+
+#: templates/units-manager.php:141
+msgid "Number"
+msgstr ""
+
+#: templates/units-manager.php:142
+msgid "Enter the number of created units."
+msgstr ""
+
+#: templates/units-manager.php:151
+msgid ""
+"Enter the title for created units. If empty, the apartment title will be "
+"used."
+msgstr ""
+
+#: templates/woocommerce/myaccount/bookings.php:96
+msgid "Previous"
+msgstr ""
+
+#: templates/woocommerce/myaccount/bookings.php:102
+msgid "Next"
+msgstr ""
+
+#: templates/woocommerce/myaccount/bookings.php:110
+msgid "Go Shop"
+msgstr ""
+
+#: templates/woocommerce/myaccount/bookings.php:113
+msgid "No bookings available yet."
+msgstr ""
